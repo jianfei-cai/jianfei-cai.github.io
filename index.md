@@ -33,7 +33,7 @@ supervised object detection”, CVPR 2020.
 - X. Shi, J. Cai, S. Joty and J. Gu, “Watch it twice: video captioning with a refocused video encoder”, ACM MM, 2019. [[paper]](https://arxiv.org/abs/1907.12905)
 - Z. Wu, G. Lin, Q. Tao and J. Cai, “M2E-Try On Net: Fashion from Model to Everyone”, ACM MM, 2019. [[paper]](https://arxiv.org/abs/1811.08599)
 - Q. Tao, Z. Ge, J. Cai, J. Yin and S. See, “Improving deep lesion detection using 3d contextual and spatial attention”, MICCAI 2019. [[paper]](https://arxiv.org/abs/1907.04052)
-- H. Xu, J. Zheng, J. Cai and J. Zhang, “Region deformer networks for unsupervised depth estimation from unconstrained monocular videos”, IJCAI 2019. [paper](https://arxiv.org/abs/1902.09907)[[code]](https://github.com/haofeixu/rdn4depth)
+- H. Xu, J. Zheng, J. Cai and J. Zhang, “Region deformer networks for unsupervised depth estimation from unconstrained monocular videos”, IJCAI 2019. [[paper]](https://arxiv.org/abs/1902.09907)[[code]](https://github.com/haofeixu/rdn4depth)
 - C. Zheng, T.-J. Cham and J. Cai, “Pluralistic image completion”, CVPR 2019.[[demo-short]](https://www.youtube.com/watch?v=tplhXSYX9us&feature=youtu.be)[[demo-long]](https://www.youtube.com/watch?v=9V7rNoLVmSs&feature=youtu.be)[[demo-live&code]](http://www.chuanxiaz.com/publication/pluralistic/)
 - X. Yang, K. Tang, H. Zhang and J. Cai, “Auto-encoding scene graphs for image captioning”, CVPR 2019 (oral). [[arxiv]](https://arxiv.org/abs/1812.02378)
 - L. Ge, Z. Ren, Y. Li, Z. Xue, Y. Wang, J. Cai and J. Yuan, “3D hand shape and pose estimation from a single RGB image”, CVPR 2019 (oral). [[arxiv]](https://arxiv.org/abs/1903.00812)

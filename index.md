@@ -52,7 +52,7 @@ supervised object detection”, CVPR 2020.
 - G. Song, J. Cai, T.-J. Cham, J. Zheng, J. Zhang and H. Fuchs, “Real-time 3D face-eye performance capture of a person wearing VR headset”, ACM Multimedia 2018. [[demo-HMD]](https://www.youtube.com/watch?v=ZOLZ2aezBGc&feature=youtu.be)[[demo-Avatar]](https://www.youtube.com/watch?v=m6NWParWIyo&feature=youtu.be)
 - H. Liu, J. Cai, Y. Wang and Y. S. Ong, “Generalized robust Bayesian committee machine for large-scale Gaussian process regression”, ICML 2018.
 - J. Gu, J. Cai, J. Shafiq, L. Niu and G. Wang, “Look, imagine and match: improving textual-visual cross-modal retrieval with generative models”, CVPR 2018 (spotlight paper).
-- Q. Wu, J. Zhang, Y. Lai, J. Zheng and J. Cai, “Alive caricature from 2D to 3D”, CVPR 2018 (spotlight paper) [listed in The Best of the Physics arXiv by MIT Tech. Review in Mar. 31, 2018](https://www.technologyreview.com/2018/03/31/3107/the-best-of-the-physics-arxiv-week-ending-march-31-2018/)
+- Q. Wu, J. Zhang, Y. Lai, J. Zheng and J. Cai, “Alive caricature from 2D to 3D”, CVPR 2018 (spotlight paper) [[listed in The Best of the Physics arXiv by MIT Tech. Review in Mar. 31, 2018]](https://www.technologyreview.com/2018/03/31/3107/the-best-of-the-physics-arxiv-week-ending-march-31-2018/)
 - J. Cai, G. Wang and T. Chen, “Stack-captioning: coarse-to-fine learning for image captioning”, AAAI 2018.
 - D. Xu, Q. Duan, J. Zheng, J. Zhang, J. Cai and T. J. Cham, “Shading-based surface detail recovery under general unknown illumination”, IEEE T-PAMI, Feb. 2018.
 - J. Gu, G. Wang, J. Cai and T. Chen, "An empirical study of language CNN for image captioning", ICCV 2017.

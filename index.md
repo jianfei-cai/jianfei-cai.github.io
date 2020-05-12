@@ -5,10 +5,10 @@ Jianfei is a Professor at Faculty of IT, Monash University, where he currently s
 
 ## General information
 - Research interests: visual computing, computer vision, deep learning, vision&language, 3D vision, multimedia, visual signal processing and networking
-- Address: Prof. Jianfei Cai, Dept. of DSAI, Faculty of IT, Monash University, Clayton VIC 3800, Australia
+- Address: Prof. Jianfei Cai, Dept. of DSAI, Faculty of IT, Monash University, Clayton VIC 3800
 - Email: jianfei.cai AT monash.edu
 - Links: [[Monash website]](https://research.monash.edu/en/persons/jianfei-cai), [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=N6czCoUAAAAJ)
-- index: [[Recent work]](#Recent), [[Major work on visual computing & vision]](#vision), [[Major work on VSPC]](#networking)
+- index: [[Major work on visual computing & vision]](#major-work-from-my-group-on-visual-computing-and-computer-vision), [[Major work on VSPC]](#major-work-from-my-group-on-visual-signal-processing-and-networking)
 
 ## Updates
 

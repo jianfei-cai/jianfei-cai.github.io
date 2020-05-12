@@ -8,7 +8,7 @@ Jianfei is a Professor at Faculty of IT, Monash University, where he currently s
 - Address: Prof. Jianfei Cai, Dept. of DSAI, Faculty of IT, Monash University, Clayton VIC 3800
 - Email: jianfei.cai AT monash.edu
 - Links: [[Monash website]](https://research.monash.edu/en/persons/jianfei-cai), [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=N6czCoUAAAAJ)
-- index: [[Major work on visual computing & vision]](#major-work-from-my-group-on-visual-computing-and-computer-vision), [[Major work on VSPC]](#major-work-from-my-group-on-visual-signal-processing-and-networking)
+- index: [[Recent work]](#recent-work-from-my-group), [[Major work on visual computing & vision]](#major-work-from-my-group-on-visual-computing-and-computer-vision), [[Major work on VSPC]](#major-work-from-my-group-on-visual-signal-processing-and-networking)
 
 ## Updates
 
@@ -23,20 +23,22 @@ supervised object detection”, CVPR 2020.
 - Z. Shao, Z. Liu, J. Cai, Y. Wu, L. Ma, “Facial Action Unit Detection Using Attention and Relation Learning”, accepted by IEEE Trans. on Affective Computing.
 - T. Zhang, G. Lin, J. Cai, T. Shen, C. Shen, A. C. Kot, “Decoupled spatial neural attention for weakly supervised semantic segmentation”, accepted by TMM.
 
+[Back to top](#biography)
+
 ## Major work from my group on visual computing and computer vision
 - H. Jiang, J. Cai and J. Zheng, “Skeleton-aware 3d human shape reconstruction from point clouds”, ICCV 2019.
 - X. Yang, H. Zhang, and J. Cai, “Learning to collocate neural modules for image captioning”, ICCV 2019.[[paper]](https://arxiv.org/abs/1904.08608)
 - J. Gu, S. Joty, J. Cai, H. Zhao, X. Yang and G. Wang, “Unpaired image captioning via scene graph alignments”, ICCV 2019. [[paper]](https://arxiv.org/abs/1903.10658)
-- Y. Cai, L. Ge, J. Liu, J. Cai, T.-J. Cham, J. Yuan, N. M. Thalmann, “Exploiting spatial-temporal relationships for 3d pose estimation via graph convolutional networks”, ICCV 2019. [[code]](https://arxiv.org/abs/1903.10658)
-- X. Shi, J. Cai, S. Joty and J. Gu, “Watch it twice: video captioning with a refocused video encoder”, ACM MM, 2019. [[paper]](https://arxiv.org/abs/1903.10658)
-- Z. Wu, G. Lin, Q. Tao and J. Cai, “M2E-Try On Net: Fashion from Model to Everyone”, ACM MM, 2019. [[paper]](https://arxiv.org/abs/1903.10658)
-- Q. Tao, Z. Ge, J. Cai, J. Yin and S. See, “Improving deep lesion detection using 3d contextual and spatial attention”, MICCAI 2019. [[paper]](https://arxiv.org/abs/1903.10658)
-- H. Xu, J. Zheng, J. Cai and J. Zhang, “Region deformer networks for unsupervised depth estimation from unconstrained monocular videos”, IJCAI 2019. [[code]](https://arxiv.org/abs/1903.10658)
-- C. Zheng, T.-J. Cham and J. Cai, “Pluralistic image completion”, CVPR 2019.[[demo-short]](https://arxiv.org/abs/1903.10658)[[demo-long]](https://arxiv.org/abs/1903.10658)[[demo-live&code]](https://arxiv.org/abs/1903.10658)
-- X. Yang, K. Tang, H. Zhang and J. Cai, “Auto-encoding scene graphs for image captioning”, CVPR 2019 (oral). [[arxiv]](https://arxiv.org/abs/1903.10658)
-- L. Ge, Z. Ren, Y. Li, Z. Xue, Y. Wang, J. Cai and J. Yuan, “3D hand shape and pose estimation from a single RGB image”, CVPR 2019 (oral). [[arxiv]](https://arxiv.org/abs/1903.10658)
+- Y. Cai, L. Ge, J. Liu, J. Cai, T.-J. Cham, J. Yuan, N. M. Thalmann, “Exploiting spatial-temporal relationships for 3d pose estimation via graph convolutional networks”, ICCV 2019. [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Cai_Exploiting_Spatial-Temporal_Relationships_for_3D_Pose_Estimation_via_Graph_Convolutional_ICCV_2019_paper.html)[[code]](https://github.com/vanoracai/Exploiting-Spatial-temporal-Relationships-for-3D-Pose-Estimation-via-Graph-Convolutional-Networks)
+- X. Shi, J. Cai, S. Joty and J. Gu, “Watch it twice: video captioning with a refocused video encoder”, ACM MM, 2019. [[paper]](https://arxiv.org/abs/1907.12905)
+- Z. Wu, G. Lin, Q. Tao and J. Cai, “M2E-Try On Net: Fashion from Model to Everyone”, ACM MM, 2019. [[paper]](https://arxiv.org/abs/1811.08599)
+- Q. Tao, Z. Ge, J. Cai, J. Yin and S. See, “Improving deep lesion detection using 3d contextual and spatial attention”, MICCAI 2019. [[paper]](https://arxiv.org/abs/1907.04052)
+- H. Xu, J. Zheng, J. Cai and J. Zhang, “Region deformer networks for unsupervised depth estimation from unconstrained monocular videos”, IJCAI 2019. [paper](https://arxiv.org/abs/1902.09907)[[code]](https://github.com/haofeixu/rdn4depth)
+- C. Zheng, T.-J. Cham and J. Cai, “Pluralistic image completion”, CVPR 2019.[[demo-short]](https://www.youtube.com/watch?v=tplhXSYX9us&feature=youtu.be)[[demo-long]](https://www.youtube.com/watch?v=9V7rNoLVmSs&feature=youtu.be)[[demo-live&code]](http://www.chuanxiaz.com/publication/pluralistic/)
+- X. Yang, K. Tang, H. Zhang and J. Cai, “Auto-encoding scene graphs for image captioning”, CVPR 2019 (oral). [[arxiv]](https://arxiv.org/abs/1812.02378)
+- L. Ge, Z. Ren, Y. Li, Z. Xue, Y. Wang, J. Cai and J. Yuan, “3D hand shape and pose estimation from a single RGB image”, CVPR 2019 (oral). [[arxiv]](https://arxiv.org/abs/1903.00812)
 - J. Gu, H. Zhao, Z. Lin, S. Li, J. Cai, and M. Ling, “Scene graph generation with external knowledge and image reconstruction”, CVPR 2019.
-- L. Sheng, J. Cai, T.-J. Cham, V. Pavlovic, and K. N. Ngan, “Visibility constrained generative model for depth-based 3D facial pose tracking”, IEEE T-PAMI, vol. 41, no. 8, pp. 1994-2007, Aug. 2019. [[pdf]](https://arxiv.org/abs/1903.10658)
+- L. Sheng, J. Cai, T.-J. Cham, V. Pavlovic, and K. N. Ngan, “Visibility constrained generative model for depth-based 3D facial pose tracking”, IEEE T-PAMI, vol. 41, no. 8, pp. 1994-2007, Aug. 2019. [[pdf]](https://lucassheng.github.io/files/lsheng_pami18.pdf)
 - Y. Guo, J. Zhang, J. Cai, B. Jiang and J. Zheng, "CNN-based real-time dense face reconstruction with inverse-rendered photo-realistic face images", IEEE T-PAMI, vol. 41, no. 9, pp. 1294-1307, June 2019. [[pdf]](https://arxiv.org/abs/1903.10658)[[demo]](https://arxiv.org/abs/1903.10658)[[dataset]](https://arxiv.org/abs/1903.10658)
 - Q. Tao, H. Yang and J. Cai, "Exploiting web images for weakly supervised object detection", IEEE Trans. on Multimedia (TMM), vo. 21, no. 5, pp. 1135-1146, May 2019. [[arxiv]](https://arxiv.org/abs/1903.10658)[[dataset]](https://arxiv.org/abs/1903.10658)
 - Y. Cai, L. Ge, J. Cai and J. Yuan, “Weakly supervised 3D hand pose estimation from monocular RGB images”, ECCV 2018 (oral).
@@ -91,6 +93,8 @@ supervised object detection”, CVPR 2020.
 - W. Yang, J. Cai, J. Zheng, J. Luo, "User-friendly interactive image segmentation through unified combinatorial user inputs", IEEE Transactions on Image Processing, vol. 19, no. 9, pp. 2470-2479, Sept. 2010. [[pdf]](https://arxiv.org/abs/1903.10658)[[software]](https://arxiv.org/abs/1903.10658)
 - W. Yang, J. Zheng, J. Cai, S. Rahardja, C. W. Chen, “Natural and seamless image composition with color control”, IEEE Trans. on Image Processing, vol. 18, no. 11, pp. 2584-2592, Nov. 2009. [[pdf]](https://arxiv.org/abs/1903.10658)[[software]](https://arxiv.org/abs/1903.10658)
 
+[Back to top](#biography)
+
 ## Major work from my group on visual signal processing and networking
 - L. Wei, C. H. Foh, B. He, J. Cai, “Towards efficient resource allocation for heterogeneous workloads in IaaS clouds”, accepted by IEEE Transactions on Cloud Computing.
 - H. Lu, C. H. Foh, Y. Wen and J. Cai, “Delay-optimized file retrieval under LT-based cloud storage”, IEEE Transactions on Cloud Computing, no. 99, May 2015.
@@ -105,3 +109,5 @@ supervised object detection”, CVPR 2020.
 - W. Yang, Y. Lu, F. Wu, J. Cai, K. N. Ngan and S. Li, “4D Wavelet-based Multi-view Video Coding”, IEEE Trans. Circuits and Systems for Video Technology, vol. 16, no. 11, pp. 1385-1396, Nov. 2006. [[pdf]](https://arxiv.org/abs/1903.10658)
 - J. Cai, X. Li, and C. W. Chen, Layered unequal loss protection with pre-interleaving for fast progressive image transmission over packet-loss channels”, ACM Transactions on Multimedia Computing, Communications and Applications (ACM TOMCCAP), Nov. 2005.
 - Z. He, J. Cai and C. W. Chen, "Joint source channel rate-distortion analysis for adaptive mode selection and rate control in wireless video coding", IEEE Trans. Circuits and Systems for Video Technology, special issue on wireless video, vol.12, no.6, pp.511-523, June 2002. [[pdf]](https://arxiv.org/abs/1903.10658)
+
+[Back to top](#biography)

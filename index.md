@@ -25,36 +25,35 @@ supervised object detection”, CVPR 2020.
 
 ## Major work from my group on visual computing and computer vision
 - H. Jiang, J. Cai and J. Zheng, “Skeleton-aware 3d human shape reconstruction from point clouds”, ICCV 2019.
-- X. Yang, H. Zhang, and J. Cai, “Learning to collocate neural modules for image captioning”, ICCV 2019.[paper]
-- J. Gu, S. Joty, J. Cai, H. Zhao, X. Yang and G. Wang, “Unpaired image captioning via scene graph alignments”, ICCV 2019. [paper]
-- Y. Cai, L. Ge, J. Liu, J. Cai, T.-J. Cham, J. Yuan, N. M. Thalmann, “Exploiting spatial-temporal relationships for 3d pose estimation via graph convolutional networks”, ICCV 2019.
-- X. Shi, J. Cai, S. Joty and J. Gu, “Watch it twice: video captioning with a refocused video encoder”, ACM MM, 2019. [paper]
-- Z. Wu, G. Lin, Q. Tao and J. Cai, “M2E-Try On Net: Fashion from Model to Everyone”, ACM MM, 2019. [paper]
-- Q. Tao, Z. Ge, J. Cai, J. Yin and S. See, “Improving deep lesion detection using 3d contextual and spatial attention”, MICCAI 2019. [paper]
-- H. Xu, J. Zheng, J. Cai and J. Zhang, “Region deformer networks for unsupervised depth estimation from unconstrained monocular videos”, IJCAI 2019.[paper][code]
-- C. Zheng, T.-J. Cham and J. Cai, “Pluralistic image completion”, CVPR 2019.[demo video1][demo video2][interactive demo&paper&code]
-- X. Yang, K. Tang, H. Zhang and J. Cai, “Auto-encoding scene graphs for image captioning”, CVPR 2019 (oral). [arXiv]
-- L. Ge, Z. Ren, Y. Li, Z. Xue, Y. Wang, J. Cai and J. Yuan, “3D hand shape and pose estimation from a single RGB image”, CVPR 2019 (oral). [arXiv]
+- X. Yang, H. Zhang, and J. Cai, “Learning to collocate neural modules for image captioning”, ICCV 2019.[[paper]](https://arxiv.org/abs/1904.08608)
+- J. Gu, S. Joty, J. Cai, H. Zhao, X. Yang and G. Wang, “Unpaired image captioning via scene graph alignments”, ICCV 2019. [[paper]](https://arxiv.org/abs/1903.10658)
+- Y. Cai, L. Ge, J. Liu, J. Cai, T.-J. Cham, J. Yuan, N. M. Thalmann, “Exploiting spatial-temporal relationships for 3d pose estimation via graph convolutional networks”, ICCV 2019. [[code]](https://arxiv.org/abs/1903.10658)
+- X. Shi, J. Cai, S. Joty and J. Gu, “Watch it twice: video captioning with a refocused video encoder”, ACM MM, 2019. [[paper]](https://arxiv.org/abs/1903.10658)
+- Z. Wu, G. Lin, Q. Tao and J. Cai, “M2E-Try On Net: Fashion from Model to Everyone”, ACM MM, 2019. [[paper]](https://arxiv.org/abs/1903.10658)
+- Q. Tao, Z. Ge, J. Cai, J. Yin and S. See, “Improving deep lesion detection using 3d contextual and spatial attention”, MICCAI 2019. [[paper]](https://arxiv.org/abs/1903.10658)
+- H. Xu, J. Zheng, J. Cai and J. Zhang, “Region deformer networks for unsupervised depth estimation from unconstrained monocular videos”, IJCAI 2019. [[code]](https://arxiv.org/abs/1903.10658)
+- C. Zheng, T.-J. Cham and J. Cai, “Pluralistic image completion”, CVPR 2019.[[demo-short]](https://arxiv.org/abs/1903.10658)[[demo-long]](https://arxiv.org/abs/1903.10658)[[demo-live&code]](https://arxiv.org/abs/1903.10658)
+- X. Yang, K. Tang, H. Zhang and J. Cai, “Auto-encoding scene graphs for image captioning”, CVPR 2019 (oral). [[arxiv]](https://arxiv.org/abs/1903.10658)
+- L. Ge, Z. Ren, Y. Li, Z. Xue, Y. Wang, J. Cai and J. Yuan, “3D hand shape and pose estimation from a single RGB image”, CVPR 2019 (oral). [[arxiv]](https://arxiv.org/abs/1903.10658)
 - J. Gu, H. Zhao, Z. Lin, S. Li, J. Cai, and M. Ling, “Scene graph generation with external knowledge and image reconstruction”, CVPR 2019.
-- L. Sheng, J. Cai, T.-J. Cham, V. Pavlovic, and K. N. Ngan, “Visibility constrained generative model for depth-based 3D facial pose tracking”, IEEE T-PAMI, vol. 41, no. 8, pp. 1994-2007, Aug. 2019. [pdf]
+- L. Sheng, J. Cai, T.-J. Cham, V. Pavlovic, and K. N. Ngan, “Visibility constrained generative model for depth-based 3D facial pose tracking”, IEEE T-PAMI, vol. 41, no. 8, pp. 1994-2007, Aug. 2019. [[pdf]](https://arxiv.org/abs/1903.10658)
+- Y. Guo, J. Zhang, J. Cai, B. Jiang and J. Zheng, "CNN-based real-time dense face reconstruction with inverse-rendered photo-realistic face images", IEEE T-PAMI, vol. 41, no. 9, pp. 1294-1307, June 2019. [[pdf]](https://arxiv.org/abs/1903.10658)[[demo]](https://arxiv.org/abs/1903.10658)[[dataset]](https://arxiv.org/abs/1903.10658)
+- Q. Tao, H. Yang and J. Cai, "Exploiting web images for weakly supervised object detection", IEEE Trans. on Multimedia (TMM), vo. 21, no. 5, pp. 1135-1146, May 2019. [[arxiv]](https://arxiv.org/abs/1903.10658)[[dataset]](https://arxiv.org/abs/1903.10658)
 - Y. Cai, L. Ge, J. Cai and J. Yuan, “Weakly supervised 3D hand pose estimation from monocular RGB images”, ECCV 2018 (oral).
-- Q. Tao, H. Yang, and J. Cai, “Zero-annotation object detection with web knowledge transfer”, ECCV 2018. [arXiv]
-- J. Gu, J. Shafiq, J. Cai and G. Wang, “Unpaired image captioning by language pivoting”, ECCV2018. [arXiv]
-- Z.Shao, Z. Liu, J. Cai and L. Ma, “Deep adaptive attention for joint facial action unit detection and face alignment”, ECCV 2018. [arXiv][code]
-- Q. Li, Q. Tao, J. Shafiq, J. Cai, and J. Luo, “VQA-E: explaining, elaborating, and enhancing your answers for visual questions”, ECCV 2018. [arXiv]
-- C. Zheng, T.-J. Cham and J. Cai, “T2Net: synthetic-to-realistic translation for solving single-image depth estimation tasks”, ECCV 2018. [arXiv][code]
+- J. Gu, J. Shafiq, J. Cai and G. Wang, “Unpaired image captioning by language pivoting”, ECCV2018. [[arxiv]](https://arxiv.org/abs/1903.10658)
+- Z.Shao, Z. Liu, J. Cai and L. Ma, “Deep adaptive attention for joint facial action unit detection and face alignment”, ECCV 2018. [[arxiv]](https://arxiv.org/abs/1903.10658)[[code]](https://arxiv.org/abs/1903.10658)
+- Q. Li, Q. Tao, J. Shafiq, J. Cai, and J. Luo, “VQA-E: explaining, elaborating, and enhancing your answers for visual questions”, ECCV 2018. [[arxiv]](https://arxiv.org/abs/1903.10658)
+- C. Zheng, T.-J. Cham and J. Cai, “T2Net: synthetic-to-realistic translation for solving single-image depth estimation tasks”, ECCV 2018. [[arxiv]](https://arxiv.org/abs/1903.10658)[[code]](https://arxiv.org/abs/1903.10658)
 - J. Pradeep, J. Mei, J. Cai and J. Zheng, “Quadtree convolutional neural networks”, ECCV 2018.
-- X. Yang, H. Zhang and J. Cai, “Shuffle-Then-Assemble: learning object-agnostic visual relationship features”, ECCV 2018. [arXiv]
-- G. Song, J. Cai, T.-J. Cham, J. Zheng, J. Zhang and H. Fuchs, “Real-time 3D face-eye performance capture of a person wearing VR headset”, ACM Multimedia 2018. [video][video2]
+- X. Yang, H. Zhang and J. Cai, “Shuffle-Then-Assemble: learning object-agnostic visual relationship features”, ECCV 2018. [[arxiv]](https://arxiv.org/abs/1903.10658)
+- G. Song, J. Cai, T.-J. Cham, J. Zheng, J. Zhang and H. Fuchs, “Real-time 3D face-eye performance capture of a person wearing VR headset”, ACM Multimedia 2018. [[demo-HMD]](https://arxiv.org/abs/1903.10658)[[demo-Avatar]](https://arxiv.org/abs/1903.10658)
 - H. Liu, J. Cai, Y. Wang and Y. S. Ong, “Generalized robust Bayesian committee machine for large-scale Gaussian process regression”, ICML 2018.
-- Y. Guo, J. Zhang, J. Cai, B. Jiang and J. Zheng, "CNN-based real-time dense face reconstruction with inverse-rendered photo-realistic face images", accepted by IEEE T-PAMI [arXiv][video][dataset]
-- Q. Tao, H. Yang and J. Cai, "Exploiting web images for weakly supervised object detection", accepted by IEEE Trans. on Multimedia (TMM) [arXiv][dataset]
 - J. Gu, J. Cai, J. Shafiq, L. Niu and G. Wang, “Look, imagine and match: improving textual-visual cross-modal retrieval with generative models”, CVPR 2018 (spotlight paper).
-- Q. Wu, J. Zhang, Y. Lai, J. Zheng and J. Cai, “Alive caricature from 2D to 3D”, CVPR 2018 (spotlight paper) [listed in The Best of the Physics arXiv by MIT Tech. Review in Mar. 31, 2018]
+- Q. Wu, J. Zhang, Y. Lai, J. Zheng and J. Cai, “Alive caricature from 2D to 3D”, CVPR 2018 (spotlight paper) [listed in The Best of the Physics arXiv by MIT Tech. Review in Mar. 31, 2018](https://arxiv.org/abs/1903.10658)
 - J. Cai, G. Wang and T. Chen, “Stack-captioning: coarse-to-fine learning for image captioning”, AAAI 2018.
 - D. Xu, Q. Duan, J. Zheng, J. Zhang, J. Cai and T. J. Cham, “Shading-based surface detail recovery under general unknown illumination”, IEEE T-PAMI, Feb. 2018.
 - J. Gu, G. Wang, J. Cai and T. Chen, "An empirical study of language CNN for image captioning", ICCV 2017.
-- F. Tan, P. Fu, T. Deng, J. Cai, T. J. Cham, “FaceCollage: A rapidly deployable system for real-time head reconstruction for on-the-go 3D telepresence”, ACM Multimedia 2017. (Full paper) [video]
+- F. Tan, P. Fu, T. Deng, J. Cai, T. J. Cham, “FaceCollage: A rapidly deployable system for real-time head reconstruction for on-the-go 3D telepresence”, ACM Multimedia 2017. (Full paper) [[demo]](https://arxiv.org/abs/1903.10658)
 - H. Yang, J. T. Zhou, J. Cai and Y. S. Ong, “MIML-FCN+: multi-instance multi-label learning via fully convolutional networks with privileged information”, IEEE CVPR 2017.
 - L. Sheng, J. Cai, T.-J. Cham, V. Pavlovic, and K. N. Ngan, “A generative model for depth-based robust 3D facial pose tracking”, IEEE CVPR 2017.
 - K. R. Jerripothula, J. Cai, J. Lu and J. Yuan, “Object Co-skeletonization with Co-segmentation”, IEEE CVPR 2017.
@@ -66,46 +65,43 @@ supervised object detection”, CVPR 2020.
 - H. Zhu, J. Lu, J. Cai, J. Zheng and N. Thalmann, “Multiple Human Identification and Cosegmentation: A Human-Oriented CRF Approach with Poselets”, IEEE Trans. on Multimedia (TMM), vol. 18, no. 8, 2016.
 - Y. Zhang, J. Wu and J. Cai, “Compact representation of high-dimensional feature vectors for large-scale image recognition and retrieval”, IEEE Trans. on Image Processing (TIP), vol. 25, no. 5, 2016.
 - Y. Zhang, W. Wei, J. Wu, J. Cai, J. Lu, V.-A. Nguyen and M. Do, “Weakly Supervised Fine-Grained Categorization with Part-Based Image Representation”, IEEE Trans. on Image Processing (TIP), vol. 25, no. 4, 2016.
-- H. Zhu, F. Meng, J. Cai and S. Lu, "Beyond pixels: a comprehensive survey from bottom-up to semantic image segmentation and cosegmentation", Elsevier Journal of Visual Communications and Image Representation, vol. 34, Jan. 2016. [pdf]
+- H. Zhu, F. Meng, J. Cai and S. Lu, "Beyond pixels: a comprehensive survey from bottom-up to semantic image segmentation and cosegmentation", Elsevier Journal of Visual Communications and Image Representation, vol. 34, Jan. 2016. [[pdf]](https://arxiv.org/abs/1903.10658)
 - A. Wang, J. Cai, J. Lu and T.-J. Cham, “MMSS: Multi-modal sharable and specific feature learning for RGB-D object recognition", ICCV, 2015.
 - A. Wang, J. Lu, J. Cai, G. Wang and T.-J. Cham, “Unsupervised joint feature learning and encoding for RGB-D scene labeling”, IEEE Trans. on Image Processing (TIP), vol. 24, no. 11, Nov. 2015.
 - A. Wang, J. Lu, J. Cai, T.-J. Cham and G. Wang, “Large-margin multi-modal deep learning for RGB-D Object recognition”, IEEE Trans. on Multimedia (TMM), vol. 17, no. 11, Nov. 2015.
-- C. Chen, J. Cai, J. Zheng, T.-J. Cham and G. Shi, “Kinect depth recovery using a color-guided, region-adaptive, and depth-selective framework”, ACM Trans. on Intelligent Systems and Technology (TIST), vol. 6, no. 2, May 2015. [code]
-- S. Xiong, J. Zhang, J. Zheng, J. Cai and L. Liu, “Robust surface reconstruction via dictionary learning”, ACM Trans. on Graphics (Proc. Siggraph Asia), 2014.[website]
-- F. Meng, J. Cai, and H. Li, “On multiple image group cosegmentation”, ACCV 2014 (oral). (Best Student Paper Honorable Mention Award)[pdf]
-- C. Chen, H. X. Pham, V. Pavlovic, J. Cai and G. Shi, “Depth recovery with face priors”, ACCV 2014 (oral). [pdf]
+- C. Chen, J. Cai, J. Zheng, T.-J. Cham and G. Shi, “Kinect depth recovery using a color-guided, region-adaptive, and depth-selective framework”, ACM Trans. on Intelligent Systems and Technology (TIST), vol. 6, no. 2, May 2015.
+- S. Xiong, J. Zhang, J. Zheng, J. Cai and L. Liu, “Robust surface reconstruction via dictionary learning”, ACM Trans. on Graphics (Proc. Siggraph Asia), 2014. [[website]](https://arxiv.org/abs/1903.10658)(ICCM 2019 Best Paper Award)
+- F. Meng, J. Cai, and H. Li, “On multiple image group cosegmentation”, ACCV 2014 (oral). (Best Student Paper Honorable Mention Award)[[pdf]](https://arxiv.org/abs/1903.10658)
+- C. Chen, H. X. Pham, V. Pavlovic, J. Cai and G. Shi, “Depth recovery with face priors”, ACCV 2014 (oral). [[pdf]](https://arxiv.org/abs/1903.10658)
 - A. Wang, J. Lu, G. Wang, J. Cai and T.-J. Cham, "Multi-modal unsupervised feature learning for RGB-D scene labeling”, ECCV 2014.
-- D. Xu, Q. Duan, J. Zheng, J. Zhang, J. Cai and T. J. Cham, “Recovering surface details under general unknown illumination using shading and coarse multi-view stereo,” CVPR 2014. [pdf]
+- D. Xu, Q. Duan, J. Zheng, J. Zhang, J. Cai and T. J. Cham, “Recovering surface details under general unknown illumination using shading and coarse multi-view stereo,” CVPR 2014. [[pdf]](https://arxiv.org/abs/1903.10658)
 - Y. Zhang, J. Wu and J. Cai, “Compact representation for image classification: to choose or to compress?” CVPR 2014.
-- Y. Zhang, J. Wu, J. Cai, W. Lin, “Flexible image similarity computation using hyper-spatial matching”, IEEE Trans. on Image Processing (TIP), 23(9), pp. 4112-4125, Sept. 2014. [pdf]
+- Y. Zhang, J. Wu, J. Cai, W. Lin, “Flexible image similarity computation using hyper-spatial matching”, IEEE Trans. on Image Processing (TIP), 23(9), pp. 4112-4125, Sept. 2014. [[pdf]](https://arxiv.org/abs/1903.10658)
 - M. Zhao, C.-W. Fu, J. Cai and T.-J. Cham, “Real-time and Temporal-coherent Foreground Extraction with Commodity RGBD Camera”, IEEE Journal of Selected Topics in Signal Processing, no. 99, Dec 2014.
-- H. Zhu, J. Lu, J. Cai, J. Zheng and N. Thalmann, “Multiple foreground recognition and cosegmentation: an object-oriented CRF model with robust higher-order potentials”, WACV 2014. [pdf]
-- H. Zhu, J. Zheng, J. Cai, and N. M. Thalmann, “Object-level image segmentation using low level cues”, IEEE Transactions on Image Processing (TIP), vol. 22, no. 10, pp. 4019-4027, Oct. 2013. [pdf]
-- T. Nguyen, J. Cai, J. Zheng and J. Li, “Interactive object segmentation from multi-view images”, Elsevier Journal of Visual Communications and Image Representation, vol. 24, no. 4, May 2013. [video][pdf]
-- J. Zhang, J. Zheng, C. Wu and J. Cai, “Variational mesh decomposition”, ACM Transactions on Graphics (TOG), vol. 31, no. 3, May 2012 (presented in SIGGRAPH 2012). [pdf]
-- T. Nguyen, J. Cai, J. Zhang and J. Zheng, “Robust interactive image segmentation using convex active contours”, IEEE Transactions on Image Processing (TIP), vol. 21, no. 8, pp.3734-3743, Aug. 2012. [pdf][software]
-- Q. Duan, J. Zheng, and J. Cai, “Flexible and accurate transparent-object matting and compositing using refractive vector field”, Computer Graphics Forum, Vol. 30, no. 6, pp. 1812-1824, Sept. 2011. [pdf]
-- J. Zhang, J. Zheng, J. Cai,“Interactive Mesh Cutting Using Constrained Random Walks”, IEEE Transactions on Visualization and Computer Graphics (TVCG), vol. 17, no. 3, pp. 357-367, March 2011. [pdf]
-- J. Zhang, J. Zheng and J. Cai,“A diffusion approach to seeded image segmentation”, IEEE CVPR, 2010. [pdf]
-- J. Zhang, C. Wu, J. Cai, J. Zheng and X. Tai, “Mesh snapping: robust interactive mesh cutting using fast geodesic curvature flow”, Proc. of Eurographics’10 (Computer Graphics Forum), 2010. [pdf]
-- W.Y ang, J. Cai, J. Zheng, J. Luo, "User-friendly interactive image segmentation through unified combinatorial user inputs", IEEE Transactions on Image Processing, vol. 19, no. 9, pp. 2470-2479, Sept. 2010. [pdf][software]
-- W. Yang, J. Zheng, J. Cai, S. Rahardja, C. W. Chen, “Natural and seamless image composition with color control”, IEEE Trans. on Image Processing, vol. 18, no. 11, pp. 2584-2592, Nov. 2009. [pdf][software]
-
-Benchmark dataset
-
-A benchmark dataset for object-level image segmentation
+- H. Zhu, J. Lu, J. Cai, J. Zheng and N. Thalmann, “Multiple foreground recognition and cosegmentation: an object-oriented CRF model with robust higher-order potentials”, WACV 2014. [[pdf]](https://arxiv.org/abs/1903.10658)
+- H. Zhu, J. Zheng, J. Cai, and N. M. Thalmann, “Object-level image segmentation using low level cues”, IEEE Transactions on Image Processing (TIP), vol. 22, no. 10, pp. 4019-4027, Oct. 2013. [[[pdf]](https://arxiv.org/abs/1903.10658) (ICCM 2017 Best Paper Award)
+- T. Nguyen, J. Cai, J. Zheng and J. Li, “Interactive object segmentation from multi-view images”, Elsevier Journal of Visual Communications and Image Representation, vol. 24, no. 4, May 2013. [[demo]](https://arxiv.org/abs/1903.10658)[[pdf]](https://arxiv.org/abs/1903.10658)
+- H. Li, J. Cai, A. Nguyen and J. Zheng, “A benchmark for semantic image segmentation”, IEEE ICME 2013. [[pdf]](https://arxiv.org/abs/1903.10658)[[dataset]](https://arxiv.org/abs/1903.10658)[[software]](https://arxiv.org/abs/1903.10658)
+- J. Zhang, J. Zheng, C. Wu and J. Cai, “Variational mesh decomposition”, ACM Transactions on Graphics (TOG), vol. 31, no. 3, May 2012 (presented in SIGGRAPH 2012). [[pdf]](https://arxiv.org/abs/1903.10658)
+- T. Nguyen, J. Cai, J. Zhang and J. Zheng, “Robust interactive image segmentation using convex active contours”, IEEE Transactions on Image Processing (TIP), vol. 21, no. 8, pp.3734-3743, Aug. 2012. [[pdf]](https://arxiv.org/abs/1903.10658)[[software]](https://arxiv.org/abs/1903.10658)
+- Q. Duan, J. Zheng, and J. Cai, “Flexible and accurate transparent-object matting and compositing using refractive vector field”, Computer Graphics Forum, Vol. 30, no. 6, pp. 1812-1824, Sept. 2011. [[pdf]](https://arxiv.org/abs/1903.10658)
+- J. Zhang, J. Zheng, J. Cai,“Interactive Mesh Cutting Using Constrained Random Walks”, IEEE Transactions on Visualization and Computer Graphics (TVCG), vol. 17, no. 3, pp. 357-367, March 2011. [[pdf]](https://arxiv.org/abs/1903.10658)
+- J. Zhang, J. Zheng and J. Cai,“A diffusion approach to seeded image segmentation”, IEEE CVPR, 2010. [[pdf]](https://arxiv.org/abs/1903.10658)
+- J. Zhang, C. Wu, J. Cai, J. Zheng and X. Tai, “Mesh snapping: robust interactive mesh cutting using fast geodesic curvature flow”, Proc. of Eurographics’10 (Computer Graphics Forum), 2010. [[pdf]](https://arxiv.org/abs/1903.10658)
+- W. Yang, J. Cai, J. Zheng, J. Luo, "User-friendly interactive image segmentation through unified combinatorial user inputs", IEEE Transactions on Image Processing, vol. 19, no. 9, pp. 2470-2479, Sept. 2010. [[pdf]](https://arxiv.org/abs/1903.10658)[[software]](https://arxiv.org/abs/1903.10658)
+- W. Yang, J. Zheng, J. Cai, S. Rahardja, C. W. Chen, “Natural and seamless image composition with color control”, IEEE Trans. on Image Processing, vol. 18, no. 11, pp. 2584-2592, Nov. 2009. [[pdf]](https://arxiv.org/abs/1903.10658)[[software]](https://arxiv.org/abs/1903.10658)
 
 ## Major work from my group on visual signal processing and networking
 - L. Wei, C. H. Foh, B. He, J. Cai, “Towards efficient resource allocation for heterogeneous workloads in IaaS clouds”, accepted by IEEE Transactions on Cloud Computing.
 - H. Lu, C. H. Foh, Y. Wen and J. Cai, “Delay-optimized file retrieval under LT-based cloud storage”, IEEE Transactions on Cloud Computing, no. 99, May 2015.
 - H. Lu, F. Lu, J. Cai and C. H. Wiedemann Solver”, IEEE Transactions on Information Theory, vol. 59, no. 12, pp. 7887-7897, Dec 2013.
-- J. Qureshi, C. H. Foh and J. Cai, “Optimal solution for the index coding problem using network coding over GF(2)”, IEEE SECON 2012.[pdf]
-- C. Deng, W. Lin and J. Cai, “Content-based image compression for arbitrary-resolution display devices”, IEEE Trans. on Multimedia, vol. 14, no. 4, pp. 1127-1139, Aug. 2012. [pdf]
-- W. Guan, J. Cai, J. Zhang and J. Zheng, “Progressive coding and illumination and view dependent transmission of 3D meshes using R-D optimization”, IEEE Trans. Circuits and Systems for Video Technology, vol. 20, no. 4, pp. 575-586, Apr 2010. [pdf]
-- G. Zhai, J. Cai, W. Lin, X. Yang, W. Zhang and M. Etoh, “Cross-dimensional Perceptual Quality Assessment for Low Bitrate Videos”, IEEE Trans. on Multimedia, vol. 10, no. 7, pp. 1316-1324, Nov. 2008. [pdf]
-- W. Guan, J. Cai, J. Zheng and C. W. Chen, “Segmentation based View-Dependent 3D Graphics Model Transmission”, IEEE Trans. on Multimedia, special issue on multimedia applications in mobile/wireless context, vol. 10, no. 5, pp. 724-734, Aug 2008. [pdf]
-- C. H. Foh, Y. Zhang, Z. Ni, J. Cai and K. N. Ngan, “Optimized Cross-Layer Design for Scalable Video Transmission over the IEEE 802.11e Networks”, IEEE Trans. Circuits and Systems for Video Technology, vol. 17, no. 12, pp. 1665-1678, Dec. 2007. [pdf]
+- J. Qureshi, C. H. Foh and J. Cai, “Optimal solution for the index coding problem using network coding over GF(2)”, IEEE SECON 2012.[[pdf]](https://arxiv.org/abs/1903.10658)
+- C. Deng, W. Lin and J. Cai, “Content-based image compression for arbitrary-resolution display devices”, IEEE Trans. on Multimedia, vol. 14, no. 4, pp. 1127-1139, Aug. 2012. [[pdf]](https://arxiv.org/abs/1903.10658)
+- W. Guan, J. Cai, J. Zhang and J. Zheng, “Progressive coding and illumination and view dependent transmission of 3D meshes using R-D optimization”, IEEE Trans. Circuits and Systems for Video Technology, vol. 20, no. 4, pp. 575-586, Apr 2010. [[pdf]](https://arxiv.org/abs/1903.10658)
+- G. Zhai, J. Cai, W. Lin, X. Yang, W. Zhang and M. Etoh, “Cross-dimensional Perceptual Quality Assessment for Low Bitrate Videos”, IEEE Trans. on Multimedia, vol. 10, no. 7, pp. 1316-1324, Nov. 2008. [[pdf]](https://arxiv.org/abs/1903.10658)
+- W. Guan, J. Cai, J. Zheng and C. W. Chen, “Segmentation based View-Dependent 3D Graphics Model Transmission”, IEEE Trans. on Multimedia, special issue on multimedia applications in mobile/wireless context, vol. 10, no. 5, pp. 724-734, Aug 2008. [[pdf]](https://arxiv.org/abs/1903.10658)
+- C. H. Foh, Y. Zhang, Z. Ni, J. Cai and K. N. Ngan, “Optimized Cross-Layer Design for Scalable Video Transmission over the IEEE 802.11e Networks”, IEEE Trans. Circuits and Systems for Video Technology, vol. 17, no. 12, pp. 1665-1678, Dec. 2007. [[pdf]](https://arxiv.org/abs/1903.10658)
 - D. Tao, J. Cai, H. Yi, D. Rajan, L. T. Chia and K. N. Ngan, “Dynamic Programming Based Reverse Frame Selection for VBR Video Delivery under Constrained Resources”, IEEE Trans. Circuits and Systems for Video Technology, vol. 16, no. 11, pp. 1362-1375, Nov. 2006.
-- W. Yang, Y. Lu, F. Wu, J. Cai, K. N. Ngan and S. Li, “4D Wavelet-based Multi-view Video Coding”, IEEE Trans. Circuits and Systems for Video Technology, vol. 16, no. 11, pp. 1385-1396, Nov. 2006. [pdf]
+- W. Yang, Y. Lu, F. Wu, J. Cai, K. N. Ngan and S. Li, “4D Wavelet-based Multi-view Video Coding”, IEEE Trans. Circuits and Systems for Video Technology, vol. 16, no. 11, pp. 1385-1396, Nov. 2006. [[pdf]](https://arxiv.org/abs/1903.10658)
 - J. Cai, X. Li, and C. W. Chen, Layered unequal loss protection with pre-interleaving for fast progressive image transmission over packet-loss channels”, ACM Transactions on Multimedia Computing, Communications and Applications (ACM TOMCCAP), Nov. 2005.
-- Z. He, J. Cai and C. W. Chen, "Joint source channel rate-distortion analysis for adaptive mode selection and rate control in wireless video coding", IEEE Trans. Circuits and Systems for Video Technology, special issue on wireless video, vol.12, no.6, pp.511-523, June 2002. [pdf]
+- Z. He, J. Cai and C. W. Chen, "Joint source channel rate-distortion analysis for adaptive mode selection and rate control in wireless video coding", IEEE Trans. Circuits and Systems for Video Technology, special issue on wireless video, vol.12, no.6, pp.511-523, June 2002. [[pdf]](https://arxiv.org/abs/1903.10658)

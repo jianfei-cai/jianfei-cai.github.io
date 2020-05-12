@@ -39,23 +39,24 @@ supervised object detection”, CVPR 2020.
 - L. Ge, Z. Ren, Y. Li, Z. Xue, Y. Wang, J. Cai and J. Yuan, “3D hand shape and pose estimation from a single RGB image”, CVPR 2019 (oral). [[arxiv]](https://arxiv.org/abs/1903.00812)
 - J. Gu, H. Zhao, Z. Lin, S. Li, J. Cai, and M. Ling, “Scene graph generation with external knowledge and image reconstruction”, CVPR 2019.
 - L. Sheng, J. Cai, T.-J. Cham, V. Pavlovic, and K. N. Ngan, “Visibility constrained generative model for depth-based 3D facial pose tracking”, IEEE T-PAMI, vol. 41, no. 8, pp. 1994-2007, Aug. 2019. [[pdf]](https://lucassheng.github.io/files/lsheng_pami18.pdf)
-- Y. Guo, J. Zhang, J. Cai, B. Jiang and J. Zheng, "CNN-based real-time dense face reconstruction with inverse-rendered photo-realistic face images", IEEE T-PAMI, vol. 41, no. 9, pp. 1294-1307, June 2019. [[pdf]](https://arxiv.org/abs/1903.10658)[[demo]](https://arxiv.org/abs/1903.10658)[[dataset]](https://arxiv.org/abs/1903.10658)
-- Q. Tao, H. Yang and J. Cai, "Exploiting web images for weakly supervised object detection", IEEE Trans. on Multimedia (TMM), vo. 21, no. 5, pp. 1135-1146, May 2019. [[arxiv]](https://arxiv.org/abs/1903.10658)[[dataset]](https://arxiv.org/abs/1903.10658)
+- Y. Guo, J. Zhang, J. Cai, B. Jiang and J. Zheng, "CNN-based real-time dense face reconstruction with inverse-rendered photo-realistic face images", IEEE T-PAMI, vol. 41, no. 9, pp. 1294-1307, June 2019. [[pdf]](https://arxiv.org/abs/1708.00980)[[demo]](https://www.youtube.com/watch?v=dghlMXxD-rk&feature=youtu.be)[[dataset]](https://github.com/Juyong/3DFace)
+- Q. Tao, H. Yang and J. Cai, "Exploiting web images for weakly supervised object detection", IEEE Trans. on Multimedia (TMM), vo. 21, no. 5, pp. 1135-1146, May 2019. [[arxiv]](https://arxiv.org/abs/1707.08721)[[dataset]](https://github.com/truetqy/Exploiting-Web-Images-for-Weakly-Supervised-Object-Detection)
 - Y. Cai, L. Ge, J. Cai and J. Yuan, “Weakly supervised 3D hand pose estimation from monocular RGB images”, ECCV 2018 (oral).
-- J. Gu, J. Shafiq, J. Cai and G. Wang, “Unpaired image captioning by language pivoting”, ECCV2018. [[arxiv]](https://arxiv.org/abs/1903.10658)
-- Z.Shao, Z. Liu, J. Cai and L. Ma, “Deep adaptive attention for joint facial action unit detection and face alignment”, ECCV 2018. [[arxiv]](https://arxiv.org/abs/1903.10658)[[code]](https://arxiv.org/abs/1903.10658)
-- Q. Li, Q. Tao, J. Shafiq, J. Cai, and J. Luo, “VQA-E: explaining, elaborating, and enhancing your answers for visual questions”, ECCV 2018. [[arxiv]](https://arxiv.org/abs/1903.10658)
-- C. Zheng, T.-J. Cham and J. Cai, “T2Net: synthetic-to-realistic translation for solving single-image depth estimation tasks”, ECCV 2018. [[arxiv]](https://arxiv.org/abs/1903.10658)[[code]](https://arxiv.org/abs/1903.10658)
+- Q. Tao, H. Yang, and J. Cai, “Zero-annotation object detection with web knowledge transfer”, ECCV 2018. [[arxiv]](https://arxiv.org/abs/1711.05954)
+- J. Gu, J. Shafiq, J. Cai and G. Wang, “Unpaired image captioning by language pivoting”, ECCV2018. [[arxiv]](https://arxiv.org/abs/1803.05526)
+- Z.Shao, Z. Liu, J. Cai and L. Ma, “Deep adaptive attention for joint facial action unit detection and face alignment”, ECCV 2018. [[arxiv]](https://arxiv.org/abs/1803.05588)[[code]](https://github.com/ZhiwenShao/JAANet)
+- Q. Li, Q. Tao, J. Shafiq, J. Cai, and J. Luo, “VQA-E: explaining, elaborating, and enhancing your answers for visual questions”, ECCV 2018. [[arxiv]](https://arxiv.org/abs/1803.07464)
+- C. Zheng, T.-J. Cham and J. Cai, “T2Net: synthetic-to-realistic translation for solving single-image depth estimation tasks”, ECCV 2018. [[arxiv]](https://arxiv.org/abs/1808.01454)[[code]](https://arxiv.org/abs/1808.01454)
 - J. Pradeep, J. Mei, J. Cai and J. Zheng, “Quadtree convolutional neural networks”, ECCV 2018.
-- X. Yang, H. Zhang and J. Cai, “Shuffle-Then-Assemble: learning object-agnostic visual relationship features”, ECCV 2018. [[arxiv]](https://arxiv.org/abs/1903.10658)
-- G. Song, J. Cai, T.-J. Cham, J. Zheng, J. Zhang and H. Fuchs, “Real-time 3D face-eye performance capture of a person wearing VR headset”, ACM Multimedia 2018. [[demo-HMD]](https://arxiv.org/abs/1903.10658)[[demo-Avatar]](https://arxiv.org/abs/1903.10658)
+- X. Yang, H. Zhang and J. Cai, “Shuffle-Then-Assemble: learning object-agnostic visual relationship features”, ECCV 2018. [[arxiv]](https://arxiv.org/abs/1808.00171)
+- G. Song, J. Cai, T.-J. Cham, J. Zheng, J. Zhang and H. Fuchs, “Real-time 3D face-eye performance capture of a person wearing VR headset”, ACM Multimedia 2018. [[demo-HMD]](https://www.youtube.com/watch?v=ZOLZ2aezBGc&feature=youtu.be)[[demo-Avatar]](https://www.youtube.com/watch?v=m6NWParWIyo&feature=youtu.be)
 - H. Liu, J. Cai, Y. Wang and Y. S. Ong, “Generalized robust Bayesian committee machine for large-scale Gaussian process regression”, ICML 2018.
 - J. Gu, J. Cai, J. Shafiq, L. Niu and G. Wang, “Look, imagine and match: improving textual-visual cross-modal retrieval with generative models”, CVPR 2018 (spotlight paper).
-- Q. Wu, J. Zhang, Y. Lai, J. Zheng and J. Cai, “Alive caricature from 2D to 3D”, CVPR 2018 (spotlight paper) [listed in The Best of the Physics arXiv by MIT Tech. Review in Mar. 31, 2018](https://arxiv.org/abs/1903.10658)
+- Q. Wu, J. Zhang, Y. Lai, J. Zheng and J. Cai, “Alive caricature from 2D to 3D”, CVPR 2018 (spotlight paper) [listed in The Best of the Physics arXiv by MIT Tech. Review in Mar. 31, 2018](https://www.technologyreview.com/2018/03/31/3107/the-best-of-the-physics-arxiv-week-ending-march-31-2018/)
 - J. Cai, G. Wang and T. Chen, “Stack-captioning: coarse-to-fine learning for image captioning”, AAAI 2018.
 - D. Xu, Q. Duan, J. Zheng, J. Zhang, J. Cai and T. J. Cham, “Shading-based surface detail recovery under general unknown illumination”, IEEE T-PAMI, Feb. 2018.
 - J. Gu, G. Wang, J. Cai and T. Chen, "An empirical study of language CNN for image captioning", ICCV 2017.
-- F. Tan, P. Fu, T. Deng, J. Cai, T. J. Cham, “FaceCollage: A rapidly deployable system for real-time head reconstruction for on-the-go 3D telepresence”, ACM Multimedia 2017. (Full paper) [[demo]](https://arxiv.org/abs/1903.10658)
+- F. Tan, P. Fu, T. Deng, J. Cai, T. J. Cham, “FaceCollage: A rapidly deployable system for real-time head reconstruction for on-the-go 3D telepresence”, ACM Multimedia 2017. (Full paper) [[demo]](https://www.youtube.com/watch?v=-C6lCd0JvNw&feature=youtu.be)
 - H. Yang, J. T. Zhou, J. Cai and Y. S. Ong, “MIML-FCN+: multi-instance multi-label learning via fully convolutional networks with privileged information”, IEEE CVPR 2017.
 - L. Sheng, J. Cai, T.-J. Cham, V. Pavlovic, and K. N. Ngan, “A generative model for depth-based robust 3D facial pose tracking”, IEEE CVPR 2017.
 - K. R. Jerripothula, J. Cai, J. Lu and J. Yuan, “Object Co-skeletonization with Co-segmentation”, IEEE CVPR 2017.

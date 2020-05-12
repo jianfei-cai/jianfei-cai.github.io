@@ -8,11 +8,11 @@ Jianfei is a Professor at Faculty of IT, Monash University, where he currently s
 - Address: Prof. Jianfei Cai, Dept. of DSAI, Faculty of IT, Monash University, Clayton VIC 3800, Australia
 - Email: jianfei.cai AT monash.edu
 - Links: [[Monash website]](https://research.monash.edu/en/persons/jianfei-cai), [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=N6czCoUAAAAJ)
-- index: [Recent work], [Selected work on visual computing & vision], [Selected work on VSPC]
+- index: [[Recent work]](#Recent), [[Major work on visual computing & vision]](#vision), [[Major work on VSPC]](#networking)
 
 ## Updates
 
-## Recent major work from my group
+## Recent work from my group
 - Z. Wu, Q. Tao, G. Lin and J. Cai, “Exploring bottom-up and top-down cues with attentive learning for webly
 supervised object detection”, CVPR 2020.
 - H. Jiang, F. Yan, J. Cai, J. Zheng, J. Xiao, “End-to-end 3D point cloud instance segmentation without detection”, CVPR 2020.
@@ -23,7 +23,7 @@ supervised object detection”, CVPR 2020.
 - Z. Shao, Z. Liu, J. Cai, Y. Wu, L. Ma, “Facial Action Unit Detection Using Attention and Relation Learning”, accepted by IEEE Trans. on Affective Computing.
 - T. Zhang, G. Lin, J. Cai, T. Shen, C. Shen, A. C. Kot, “Decoupled spatial neural attention for weakly supervised semantic segmentation”, accepted by TMM.
 
-## Selected work from my group on visual computing and computer vision
+## Major work from my group on visual computing and computer vision
 - H. Jiang, J. Cai and J. Zheng, “Skeleton-aware 3d human shape reconstruction from point clouds”, ICCV 2019.
 - X. Yang, H. Zhang, and J. Cai, “Learning to collocate neural modules for image captioning”, ICCV 2019.[paper]
 - J. Gu, S. Joty, J. Cai, H. Zhao, X. Yang and G. Wang, “Unpaired image captioning via scene graph alignments”, ICCV 2019. [paper]

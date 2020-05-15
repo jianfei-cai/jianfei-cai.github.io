@@ -17,7 +17,7 @@ Jianfei is a Professor at Faculty of IT, Monash University, where he currently s
 supervised object detection”, CVPR 2020.
 - H. Jiang, F. Yan, J. Cai, J. Zheng, J. Xiao, “End-to-end 3D point cloud instance segmentation without detection”, CVPR 2020.
 - T. He, L. Gao, J. Song, J. Cai, Y.-F. Li, “Learning from the Scene and Borrowing from the Rich: Tackling the Long Tail in Scene Graph Generation”, IJCAI 2020.
-- Y. Cai, L. Ge, J. Cai, J. Yuan and N. Thalmann, “3D hand pose estimation using synthetic data and weakly labeled RGB images”, accepted by IEEE TPAMI. 
+- Y. Cai, L. Ge, J. Cai, J. Yuan and N. Thalmann, “3D hand pose estimation using synthetic data and weakly labeled RGB images”, accepted by IEEE TPAMI, DOI:10.1109/TPAMI.2020.2993627. 
 - B. Jiang, J. Zhang, J. Cai and J. Zheng, “Disentangled human body embedding based on deep hierarchical neural network”, accepted by IEEE TVCG, DOI:10.1109/TVCG.2020.2988476.
 - H. Liu, Y. S. Ong, X. Shen and J. Cai, “When Gaussian process meets big data: a review of scalable GPs”, accepted by IEEE TNNLS.
 - Z. Shao, Z. Liu, J. Cai, Y. Wu, L. Ma, “Facial Action Unit Detection Using Attention and Relation Learning”, accepted by IEEE Trans. on Affective Computing.

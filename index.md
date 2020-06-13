@@ -8,7 +8,7 @@ Jianfei is a Professor at Faculty of IT, Monash University, where he currently s
 - Address: Prof. Jianfei Cai, Dept. of DSAI, Faculty of IT, Monash University, Clayton VIC 3800
 - Email: jianfei.cai AT monash.edu
 - Links: [[Monash website]](https://research.monash.edu/en/persons/jianfei-cai), [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=N6czCoUAAAAJ)
-- index: [[Recent work]](#recent-work-from-my-group), [[Major work on visual computing & vision]](#major-work-from-my-group-on-visual-computing-and-computer-vision), [[Major work on VSPC]](#major-work-from-my-group-on-visual-signal-processing-and-networking)
+- index: [[Recent work]](#recent-work-from-my-group), [[Major work on visual computing & vision]](#major-work-from-my-group-on-visual-computing-and-computer-vision), [[Major work on VSPC]](#major-work-from-my-group-on-visual-signal-processing-and-networking), [[Other demos]](#other-demos)
 
 ## Updates
 
@@ -112,5 +112,17 @@ supervised object detection”, CVPR 2020.
 - W. Yang, Y. Lu, F. Wu, J. Cai, K. N. Ngan and S. Li, “4D Wavelet-based Multi-view Video Coding”, IEEE Trans. Circuits and Systems for Video Technology, vol. 16, no. 11, pp. 1385-1396, Nov. 2006. 
 - J. Cai, X. Li, and C. W. Chen, Layered unequal loss protection with pre-interleaving for fast progressive image transmission over packet-loss channels”, ACM Transactions on Multimedia Computing, Communications and Applications (ACM TOMCCAP), Nov. 2005.
 - Z. He, J. Cai and C. W. Chen, "Joint source channel rate-distortion analysis for adaptive mode selection and rate control in wireless video coding", IEEE Trans. Circuits and Systems for Video Technology, special issue on wireless video, vol.12, no.6, pp.511-523, June 2002. [[pdf]](CSVT-2002-JSCC.pdf)
+
+[Back to top](#biography)
+
+## Other demos 
+- [[Kinect body measurement]]()
+- [[Mobile navigation - WeNavi]](https://www.youtube.com/watch?v=uQHGB3Xtp1Q)
+- [[Interactive object cutout tool]](https://www.youtube.com/watch?v=P4CB9iO0wGU&feature=youtu.be)
+- [[Interactive multiview object cutout tool]](https://www.youtube.com/watch?v=qGw_LyiK3So&feature=youtu.be)
+- [[Fast image cosegmentation]](https://www.youtube.com/watch?v=kqZbOdhAj14&feature=youtu.be)
+- [[Interactive medical image segmentation]](https://www.youtube.com/watch?v=yYGYlyL6z60&feature=youtu.be)
+- [[Interactive mesh segmentation]](https://www.youtube.com/watch?v=hUFDYtesits&feature=youtu.be)
+- [[Seamless image composition]](https://www.youtube.com/watch?v=RxagypaF0lI&feature=youtu.be)
 
 [Back to top](#biography)

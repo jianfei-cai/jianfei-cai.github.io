@@ -80,7 +80,7 @@ supervised object detection”, CVPR 2020.
 - D. Xu, Q. Duan, J. Zheng, J. Zhang, J. Cai and T. J. Cham, “Recovering surface details under general unknown illumination using shading and coarse multi-view stereo,” CVPR 2014. [[pdf]](CVPR2014_XuDi.pdf)
 - Y. Zhang, J. Wu and J. Cai, “Compact representation for image classification: to choose or to compress?” CVPR 2014.
 - Y. Zhang, J. Wu, J. Cai, W. Lin, “Flexible image similarity computation using hyper-spatial matching”, IEEE Trans. on Image Processing (TIP), 23(9), pp. 4112-4125, Sept. 2014. [[pdf]](TIP2014_HSM_Final.pdf)
-- M. Zhao, C.-W. Fu, J. Cai and T.-J. Cham, “Real-time and Temporal-coherent Foreground Extraction with Commodity RGBD Camera”, IEEE Journal of Selected Topics in Signal Processing, no. 99, Dec 2014. [[demo]]()
+- M. Zhao, C.-W. Fu, J. Cai and T.-J. Cham, “Real-time and Temporal-coherent Foreground Extraction with Commodity RGBD Camera”, IEEE Journal of Selected Topics in Signal Processing, no. 99, Dec 2014. [[demo]](https://youtu.be/MFr_ZQ0DpOE)
 - H. Zhu, J. Lu, J. Cai, J. Zheng and N. Thalmann, “Multiple foreground recognition and cosegmentation: an object-oriented CRF model with robust higher-order potentials”, WACV 2014. [[pdf]](wacv14-MFRC_ZHU.pdf)
 - H. Zhu, J. Zheng, J. Cai, and N. M. Thalmann, “Object-level image segmentation using low level cues”, IEEE Transactions on Image Processing (TIP), vol. 22, no. 10, pp. 4019-4027, Oct. 2013. [[[pdf]](TIP2013_semantic_cut-zhu) (ICCM 2017 Best Paper Award)
 - T. Nguyen, J. Cai, J. Zheng and J. Li, “Interactive object segmentation from multi-view images”, Elsevier Journal of Visual Communications and Image Representation, vol. 24, no. 4, May 2013. [[demo]](https://www.youtube.com/watch?v=qGw_LyiK3So&feature=youtu.be)[[pdf]](JVCI-13_multiview_cut.pdf)
@@ -116,8 +116,8 @@ supervised object detection”, CVPR 2020.
 [Back to top](#biography)
 
 ## Other demos 
-- [[Kinect body measurement]]()
-- [[Search chair in RGBD]]()
+- [[Kinect body measurement]](https://youtu.be/vSGJM6-H4gk)
+- [[Search chair in RGBD]](https://youtu.be/GZsmKKQ5hqI)
 - [[Mobile navigation - WeNavi]](https://www.youtube.com/watch?v=uQHGB3Xtp1Q)
 - [[Interactive object cutout tool]](https://www.youtube.com/watch?v=P4CB9iO0wGU&feature=youtu.be)
 - [[Interactive multiview object cutout tool]](https://www.youtube.com/watch?v=qGw_LyiK3So&feature=youtu.be)

@@ -13,6 +13,9 @@ Jianfei is a Professor at Faculty of IT, Monash University, where he currently s
 ## Updates
 
 ## Recent work from my group
+- X. Shi, X. Yang, J. Gu, S. Joty and J. Cai, “Finding It at Another Side: A Viewpoint-Adapted Matching Encoder for Change Captioning”, ECCV 2020.
+- T. Zhang, G. Lin, W. Liu, J. Cai and A. Kot, “Splitting vs. Merging: Mining Object Regions with Discrepancy and Intersection Loss for Weakly Supervised Semantic Segmentation”, ECCV 2020.
+- Y. Cai, L. Huang, Y. Wang, T.-J. Cham, J. Cai, et al., “Learning progressive joint propagation for human motion prediction”, ECCV 2020.
 - Z. Wu, Q. Tao, G. Lin and J. Cai, “Exploring bottom-up and top-down cues with attentive learning for webly
 supervised object detection”, CVPR 2020.
 - H. Jiang, F. Yan, J. Cai, J. Zheng, J. Xiao, “End-to-end 3D point cloud instance segmentation without detection”, CVPR 2020.
@@ -21,11 +24,11 @@ supervised object detection”, CVPR 2020.
 - B. Jiang, J. Zhang, J. Cai and J. Zheng, “Disentangled human body embedding based on deep hierarchical neural network”, accepted by IEEE TVCG, DOI:10.1109/TVCG.2020.2988476.
 - H. Liu, Y. S. Ong, X. Shen and J. Cai, “When Gaussian process meets big data: a review of scalable GPs”, accepted by IEEE TNNLS.
 - Z. Shao, Z. Liu, J. Cai, Y. Wu, L. Ma, “Facial Action Unit Detection Using Attention and Relation Learning”, accepted by IEEE Trans. on Affective Computing.
-- T. Zhang, G. Lin, J. Cai, T. Shen, C. Shen, A. C. Kot, “Decoupled spatial neural attention for weakly supervised semantic segmentation”, accepted by TMM.
 
 [Back to top](#biography)
 
 ## Major work from my group on visual computing and computer vision
+- T. Zhang, G. Lin, J. Cai, T. Shen, C. Shen, A. C. Kot, “Decoupled spatial neural attention for weakly supervised semantic segmentation”, IEEE TMM, vol. 21 , no. 11 , Nov. 2019.
 - H. Jiang, J. Cai and J. Zheng, “Skeleton-aware 3d human shape reconstruction from point clouds”, ICCV 2019.
 - X. Yang, H. Zhang, and J. Cai, “Learning to collocate neural modules for image captioning”, ICCV 2019.[[paper]](https://arxiv.org/abs/1904.08608)
 - J. Gu, S. Joty, J. Cai, H. Zhao, X. Yang and G. Wang, “Unpaired image captioning via scene graph alignments”, ICCV 2019. [[paper]](https://arxiv.org/abs/1903.10658)

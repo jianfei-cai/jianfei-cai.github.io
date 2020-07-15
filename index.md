@@ -13,8 +13,8 @@ Jianfei is a Professor at Faculty of IT, Monash University, where he currently s
 ## Updates
 
 ## Recent work from my group
-- X. Shi, X. Yang, J. Gu, S. Joty and J. Cai, “Finding It at Another Side: A Viewpoint-Adapted Matching Encoder for Change Captioning”, ECCV 2020.
-- T. Zhang, G. Lin, W. Liu, J. Cai and A. Kot, “Splitting vs. Merging: Mining Object Regions with Discrepancy and Intersection Loss for Weakly Supervised Semantic Segmentation”, ECCV 2020.
+- X. Shi, X. Yang, J. Gu, S. Joty and J. Cai, “Finding it at another side: a viewpoint-adapted matching encoder for change captioning”, ECCV 2020.
+- T. Zhang, G. Lin, W. Liu, J. Cai and A. Kot, “Splitting vs. merging: mining object regions with discrepancy and intersection loss for weakly supervised semantic segmentation”, ECCV 2020.
 - Y. Cai, L. Huang, Y. Wang, T.-J. Cham, J. Cai, et al., “Learning progressive joint propagation for human motion prediction”, ECCV 2020.
 - Z. Wu, Q. Tao, G. Lin and J. Cai, “Exploring bottom-up and top-down cues with attentive learning for webly
 supervised object detection”, CVPR 2020.

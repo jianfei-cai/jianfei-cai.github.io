@@ -63,7 +63,7 @@ supervised object detection”, CVPR 2020.
 - H. Yang, J. T. Zhou, J. Cai and Y. S. Ong, “MIML-FCN+: multi-instance multi-label learning via fully convolutional networks with privileged information”, IEEE CVPR 2017.
 - L. Sheng, J. Cai, T.-J. Cham, V. Pavlovic, and K. N. Ngan, “A generative model for depth-based robust 3D facial pose tracking”, IEEE CVPR 2017.
 - K. R. Jerripothula, J. Cai, J. Lu and J. Yuan, “Object Co-skeletonization with Co-segmentation”, IEEE CVPR 2017.
-- H. Yang, J. T. Zhou and J. Cai, “Improving multi-label learning with missing labels by structured semantic correlations”, ECCV 2016 (oral).
+- H. Yang, J. T. Zhou and J. Cai, “Improving multi-label learning with missing labels by structured semantic correlations”, ECCV 2016 (oral). [[arxiv]](https://arxiv.org/pdf/1608.01441.pdf)
 - L. Niu, J. Cai and D. Xu, “Domain adaptive fisher vector for visual recognition”, ECCV 2016.
 - K. R. Jerripothula, J. Cai and J. Yuan, “CATS: co-saliency activated tracklet selection for video co-localization”, ECCV 2016.
 - A. Wang, J. Cai, J. Lu and T.-J. Cham, “Modality and component aware feature fusion for RGB-D scene classification”, IEEE CVPR 2016.

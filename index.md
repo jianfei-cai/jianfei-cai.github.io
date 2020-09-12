@@ -13,6 +13,7 @@ Jianfei is a Professor at Faculty of IT, Monash University, where he currently s
 ## Updates
 
 ## Recent work from my group
+- Z. Shao , Z. Liu , J. Cai , and L. Ma, “JAA-Net: Joint Facial Action Unit Detection and Face Alignment via Adaptive Attention”, accepted by IJCV. [[paper]](https://arxiv.org/abs/2003.08834) [[code]](https://github.com/ZhiwenShao/PyTorch-JAANet)
 - X. Yang. C. Gao, H. Zhang and J. Cai, “Hierarchical scene graph encoder-decoder for image paragraph captioning”, ACM Multimedia 2020.
 - K. Chen, J. Zhang, J. Cai and J. Zheng, “Modeling caricature expressions by 3D blendshape and dynamic texture”, ACM Multimedia 2020. [[paper]](https://arxiv.org/abs/2008.05714)
 - X. Shi, X. Yang, J. Gu, S. Joty and J. Cai, “Finding it at another side: a viewpoint-adapted matching encoder for change captioning”, ECCV 2020.

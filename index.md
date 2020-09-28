@@ -124,7 +124,7 @@ supervised object detection”, CVPR 2020.
 ## Other demos 
 - [[Kinect body measurement]](https://youtu.be/vSGJM6-H4gk)
 - [[Search chair in RGBD]](https://youtu.be/GZsmKKQ5hqI)
-- [[Mobile navigation - WeNavi]](https://www.youtube.com/watch?v=uQHGB3Xtp1Q)
+- [[Mobile navigation - WeNavi]](https://www.youtube.com/watch?v=uQHGB3Xtp1Q) [[pdf]](Efficient Image Retrieval Based Mobile Indoor Localization.pdf) 
 - [[Interactive object cutout tool]](https://www.youtube.com/watch?v=P4CB9iO0wGU&feature=youtu.be)
 - [[Interactive multiview object cutout tool]](https://www.youtube.com/watch?v=qGw_LyiK3So&feature=youtu.be)
 - [[Fast image cosegmentation]](https://www.youtube.com/watch?v=kqZbOdhAj14&feature=youtu.be)

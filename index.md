@@ -13,6 +13,7 @@ Jianfei is a Professor at Faculty of IT, Monash University, where he currently s
 ## Updates
 
 ## Recent work from my group
+- X. Yang, H. Zhang and J. Cai, “Auto-encoding and distilling scene graphs for image captioning”, accepted by TPAMI.
 - J. Gu, J. Kuen, S. Joty, J. Cai, V. Morariu, H. Zhao and T. Sun, “Self-supervised relationship probing”, NeurIPS 2020. 
 - Z. Shao , Z. Liu , J. Cai , and L. Ma, “JAA-Net: Joint Facial Action Unit Detection and Face Alignment via Adaptive Attention”, accepted by IJCV. [[paper]](https://arxiv.org/abs/2003.08834) [[code]](https://github.com/ZhiwenShao/PyTorch-JAANet)
 - X. Yang. C. Gao, H. Zhang and J. Cai, “Hierarchical scene graph encoder-decoder for image paragraph captioning”, ACM Multimedia 2020.
@@ -53,7 +54,7 @@ supervised object detection”, CVPR 2020.
 - J. Gu, J. Shafiq, J. Cai and G. Wang, “Unpaired image captioning by language pivoting”, ECCV2018. [[arxiv]](https://arxiv.org/abs/1803.05526)
 - Z.Shao, Z. Liu, J. Cai and L. Ma, “Deep adaptive attention for joint facial action unit detection and face alignment”, ECCV 2018. [[arxiv]](https://arxiv.org/abs/1803.05588)[[code]](https://github.com/ZhiwenShao/JAANet)
 - Q. Li, Q. Tao, J. Shafiq, J. Cai, and J. Luo, “VQA-E: explaining, elaborating, and enhancing your answers for visual questions”, ECCV 2018. [[arxiv]](https://arxiv.org/abs/1803.07464)
-- C. Zheng, T.-J. Cham and J. Cai, “T2Net: synthetic-to-realistic translation for solving single-image depth estimation tasks”, ECCV 2018. [[arxiv]](https://arxiv.org/abs/1808.01454)[[code]](https://arxiv.org/abs/1808.01454)
+- C. Zheng, T.-J. Cham and J. Cai, “T2Net: synthetic-to-realistic translation for solving single-image depth estimation tasks”, ECCV 2018. [[arxiv]](https://arxiv.org/abs/1808.01454)[[code]](https://github.com/lyndonzheng/Synthetic2Realistic)[[video]](https://www.youtube.com/watch?v=B6lOToIk0xY&feature=youtu.be)
 - J. Pradeep, J. Mei, J. Cai and J. Zheng, “Quadtree convolutional neural networks”, ECCV 2018.
 - X. Yang, H. Zhang and J. Cai, “Shuffle-Then-Assemble: learning object-agnostic visual relationship features”, ECCV 2018. [[arxiv]](https://arxiv.org/abs/1808.00171)
 - G. Song, J. Cai, T.-J. Cham, J. Zheng, J. Zhang and H. Fuchs, “Real-time 3D face-eye performance capture of a person wearing VR headset”, ACM Multimedia 2018. [[demo-HMD]](https://www.youtube.com/watch?v=ZOLZ2aezBGc&feature=youtu.be)[[demo-Avatar]](https://www.youtube.com/watch?v=m6NWParWIyo&feature=youtu.be)

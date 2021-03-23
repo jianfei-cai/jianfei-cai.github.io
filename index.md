@@ -8,11 +8,18 @@ Jianfei is a Professor at Faculty of IT, Monash University, where he currently s
 - Address: Prof. Jianfei Cai, Dept. of DSAI, Faculty of IT, Monash University, Clayton VIC 3800
 - Email: jianfei.cai AT monash.edu
 - Links: [[Monash website]](https://research.monash.edu/en/persons/jianfei-cai), [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=N6czCoUAAAAJ)
-- index: [[Recent work]](#recent-work-from-my-group), [[Major work on visual computing & vision]](#major-work-from-my-group-on-visual-computing-and-computer-vision), [[Major work on VSPC]](#major-work-from-my-group-on-visual-signal-processing-and-networking), [[Other demos]](#other-demos)
+- index: [[Recent work]](#recent-work), [[Major work on visual computing & vision]](#major-work-on-visual-computing-and-computer-vision), [[Major work on VSPC]](#major-work-on-visual-signal-processing-and-networking), [[Other demos]](#other-demos)
 
 ## Updates
 
-## Recent work from my group
+## Recent work
+- C. Zheng, T.-J. Cham and J. Cai “The Spatially-Correlative Loss for Various Image Translation Tasks”, CVPR 2021.
+- X. Yang, H. Zhang, G.-J. Qi and J. Cai, “Causal Attention for Vision-Language Tasks”, CVPR 2021.
+- J. Wang, T. Lukasiewicz, X. Hu, J. Cai and Z. Xu, “RSG: A simple yet effective module for learning imbalanced datasets”, CVPR 2021. [[code]](https://github.com/Jianf-Wang/RSG)
+
+[Back to top](#biography)
+
+## Major work on visual computing and computer vision
 - X. Yang, H. Zhang and J. Cai, “Auto-encoding and distilling scene graphs for image captioning”, accepted by TPAMI.
 - J. Gu, J. Kuen, S. Joty, J. Cai, V. Morariu, H. Zhao and T. Sun, “Self-supervised relationship probing”, NeurIPS 2020. 
 - Z. Shao , Z. Liu , J. Cai , and L. Ma, “JAA-Net: Joint Facial Action Unit Detection and Face Alignment via Adaptive Attention”, accepted by IJCV. [[paper]](https://arxiv.org/abs/2003.08834) [[code]](https://github.com/ZhiwenShao/PyTorch-JAANet)
@@ -29,10 +36,6 @@ supervised object detection”, CVPR 2020.
 - H. Liu, Y. S. Ong, X. Shen and J. Cai, “When Gaussian process meets big data: a review of scalable GPs”, accepted by IEEE TNNLS, DOI:10.1109/TNNLS.2019.2957109.
 - Z. Shao, Z. Liu, J. Cai, Y. Wu, L. Ma, “Facial Action Unit Detection Using Attention and Relation Learning”, accepted by IEEE Trans. on Affective Computing.
 - B. Jiang, J. Zhang, J. Cai and J. Zheng, “Disentangled human body embedding based on deep hierarchical neural network”, IEEE TVCG, vol. 26, no. 8, pp. 2560-2575, Aug 2020.
-
-[Back to top](#biography)
-
-## Major work from my group on visual computing and computer vision
 - T. Zhang, G. Lin, J. Cai, T. Shen, C. Shen, A. C. Kot, “Decoupled spatial neural attention for weakly supervised semantic segmentation”, IEEE TMM, vol. 21 , no. 11 , Nov. 2019.
 - H. Jiang, J. Cai and J. Zheng, “Skeleton-aware 3d human shape reconstruction from point clouds”, ICCV 2019.
 - X. Yang, H. Zhang, and J. Cai, “Learning to collocate neural modules for image captioning”, ICCV 2019.[[paper]](https://arxiv.org/abs/1904.08608)
@@ -104,7 +107,7 @@ supervised object detection”, CVPR 2020.
 
 [Back to top](#biography)
 
-## Major work from my group on visual signal processing and networking
+## Major work on visual signal processing and networking
 - G. Gao, H. Zhang, H. Hu, Y. Wen, J. Cai, C. Luo, W. Zeng, “Optimizing quality of experience for adaptive bitrate streaming via viewer interest inference”, IEEE T-MM, vol. 20, no. 12, pp. 3399-3413, Dec. 2018.
 - L. Wei, J. Cai, C. H. Foh, B. He, “QoS-aware resource allocation for video transcoding in clouds”, IEEE Transactions on Circuits and Systems for Video Technology, vol. 27, no. 1, 2017.
 - L. Wei, C. H. Foh, B. He, J. Cai, “Towards efficient resource allocation for heterogeneous workloads in IaaS clouds”, IEEE Transactions on Cloud Computing, no. 99, Sept 2015.

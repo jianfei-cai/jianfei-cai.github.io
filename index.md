@@ -68,7 +68,7 @@ supervised object detection”, CVPR 2020.
 - J. Cai, G. Wang and T. Chen, “Stack-captioning: coarse-to-fine learning for image captioning”, AAAI 2018.
 - D. Xu, Q. Duan, J. Zheng, J. Zhang, J. Cai and T. J. Cham, “Shading-based surface detail recovery under general unknown illumination”, IEEE T-PAMI, Feb. 2018.
 - J. Gu, G. Wang, J. Cai and T. Chen, "An empirical study of language CNN for image captioning", ICCV 2017.
-- F. Tan, P. Fu, T. Deng, J. Cai, T. J. Cham, “FaceCollage: A rapidly deployable system for real-time head reconstruction for on-the-go 3D telepresence”, ACM Multimedia 2017. (Full paper) [[demo]](https://www.youtube.com/watch?v=-C6lCd0JvNw&feature=youtu.be)
+- F. Tan, P. Fu, T. Deng, J. Cai, T. J. Cham, “FaceCollage: A rapidly deployable system for real-time head reconstruction for on-the-go 3D telepresence”, ACM Multimedia 2017. (Full paper) [[paper]](FaceCollage.pdf)[[demo]](https://www.youtube.com/watch?v=-C6lCd0JvNw&feature=youtu.be)
 - H. Yang, J. T. Zhou, J. Cai and Y. S. Ong, “MIML-FCN+: multi-instance multi-label learning via fully convolutional networks with privileged information”, IEEE CVPR 2017.
 - L. Sheng, J. Cai, T.-J. Cham, V. Pavlovic, and K. N. Ngan, “A generative model for depth-based robust 3D facial pose tracking”, IEEE CVPR 2017.
 - K. R. Jerripothula, J. Cai, J. Lu and J. Yuan, “Object Co-skeletonization with Co-segmentation”, IEEE CVPR 2017.

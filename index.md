@@ -16,6 +16,7 @@ Jianfei is a Professor at Faculty of IT, Monash University, where he currently s
 - C. Zheng, T.-J. Cham and J. Cai “The Spatially-Correlative Loss for Various Image Translation Tasks”, CVPR 2021. [[paper]](https://arxiv.org/abs/2104.00854)[[code]](https://github.com/lyndonzheng/F-LSeSim)[[project]](https://www.chuanxiaz.com/publication/flsesim/)
 - X. Yang, H. Zhang, G.-J. Qi and J. Cai, “Causal Attention for Vision-Language Tasks”, CVPR 2021.
 - J. Wang, T. Lukasiewicz, X. Hu, J. Cai and Z. Xu, “RSG: A simple yet effective module for learning imbalanced datasets”, CVPR 2021. [[code]](https://github.com/Jianf-Wang/RSG)
+- Q. Tao, C.-C. Loy, J. Cai, Z. Ge and S. See, "Retrospective class incremental learning", IEEE ICME 2021. [[paper]](ICME2021_camera_ready_final.pdf)
 
 [Back to top](#biography)
 

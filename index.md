@@ -13,13 +13,23 @@ Jianfei is a Professor at Faculty of IT, Monash University, where he currently s
 ## Updates
 
 ## Recent work
+- C. Zheng, T.-J. Cham, J. Cai and D. Phung, “Bridging global context interactions for high-fidelity image completion”, CVPR 2022.[[paper&code]](https://github.com/lyndonzheng/TFill)
+- H. Xu, J. Zhang, J. Cai, H. Rezatofighi and D. Tao, “GMFlow: learning optical flow via global matching”, CVPR 2022. [[paper&code]](https://github.com/haofeixu/gmflow)
+- H. Shi, M. Hayat, Y. Wu and J. Cai, “ProposalCLIP: unsupervised open-category object proposal generation via exploiting CLIP cues”, CVPR 2022. [[paper]](https://arxiv.org/abs/2201.06696)
+- Z. Pan, B. Zhuang, H. He, J. Liu and J. Cai, “Less is more: pay less attention in vision transformers”, AAAI 2022. [[paper]](https://arxiv.org/abs/2105.14217)[[code]](https://github.com/zhuang-group/LIT)
+- X. Yang, H. Zhang and J. Cai, “Deconfounded image captioning: a causal retrospect”, accepted by TPAMI, 10.1109/TPAMI.2021.3121705. [[paper]](https://arxiv.org/abs/2003.03923)
+
+
+[Back to top](#biography)
+
+## Major work on visual computing and computer vision
 - H. Xu, J. Yang, J. Cai, J. Zhang and X. Tong, “High-resolution optical flow from 1d attention and correlation”, ICCV 2021 (Oral). [[paper]](https://arxiv.org/pdf/2104.13918.pdf)
-- Z. Pan, B. Zhuang, J. Liu, H. He and J. Cai, “Scalable visual transformers with hierarchical pooling”, ICCV 2021. [[paper]](https://arxiv.org/abs/2103.10619)
+- Z. Pan, B. Zhuang, J. Liu, H. He and J. Cai, “Scalable visual transformers with hierarchical pooling”, ICCV 2021. [[paper]](https://arxiv.org/abs/2103.10619)[[code]](https://github.com/zhuang-group/HVT)
 - Z. Wu, X. Shi, G. Lin and J. Cai, “Learning meta-class memory for few-shot semantic segmentation”, ICCV 2021. [[paper]](https://arxiv.org/abs/2108.02958)[[code]](https://github.com/MonashAI/HVT)
 - X. Yang, C. Gao, H. Zhang and J. Cai, “Auto-parsing network for image captioning and visual question answering”, ICCV 2021.
 - C. Lin, Z. Yuan, S. Zhao, P. Sun. C. Wang and J. Cai, “Domain-invariant disentangled network for generalizable object detection”, ICCV 2021.
 - D. Ren, J. Zheng, J. Cai, et al., “CSG-Stump: A learning friendly csg-like representation for interpretable shape parsing”, ICCV 2021. [[paper&code]](https://kimren227.github.io/projects/CSGStump/)
-- Y. Cai, Y. Wang, Y. Zhu, T.-J. Cham, J. Cai, et al., “A unified 3D human motion synthesis model via conditional variational auto-encoder”, ICCV 2021. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Cai_A_Unified_3D_Human_Motion_Synthesis_Model_via_Conditional_Variational_ICCV_2021_paper.pdf)
+- Y. Cai, Y. Wang, Y. Zhu, T.-J. Cham, J. Cai, et al., “A unified 3D human motion synthesis model via conditional variational auto-encoder”, ICCV 2021. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Cai_A_Unified_3D_Human_Motion_Synthesis_Model_via_Conditional_Variational_ICCV_2021_paper.pdf)[[code]](https://github.com/vanoracai/A-unified-3d-human-motion-synthesis-model-via-conditional-variational-auto-encoder)
 - Y. Wu, M. Xu, Z. Ge, J. Cai, L. Zhang, “Semi-supervised Left Atrium Segmentation with Mutual Consistency Training”, MICCAI 2021. [[paper]](https://arxiv.org/abs/2103.02911)
 - C. Zheng, T.-J. Cham and J. Cai “The Spatially-Correlative Loss for Various Image Translation Tasks”, CVPR 2021. [[paper]](https://arxiv.org/abs/2104.00854)[[code]](https://github.com/lyndonzheng/F-LSeSim)[[project]](https://www.chuanxiaz.com/publication/flsesim/)
 - X. Yang, H. Zhang, G.-J. Qi and J. Cai, “Causal Attention for Vision-Language Tasks”, CVPR 2021.
@@ -29,11 +39,6 @@ Jianfei is a Professor at Faculty of IT, Monash University, where he currently s
 - C. Zheng, T.-J. Cham and J. Cai, “Pluralistic Free-Form Image Completion”, accepted by IJCV.
 - G. Song, T.-J. Cham, J. Cai and J. Zheng, “Half-body portrait relighting with overcomplete lighting representation”, CGF, https://doi.org/10.1111/cgf.14384. [[paper]](https://guoxiansong.github.io/homepage/paper/relight_resize.pdf)[[video]](https://www.youtube.com/watch?v=QUeLs0o2CEw)[[code]](https://github.com/GuoxianSong/Portrait-Relighting)[[dataset]](https://drive.google.com/drive/folders/1Myh0Dck6FQV-yaeDUnz9swkWCcMb_Bwn)
 - Z. Shao , J. Cai, T.-J. Cham, X. Lu, and L. Ma, “Unconstrained facial action unit detection via latent feature domain”, IEEE Trans on Affective Computing, 2021, 10.1109/TAFFC.2021.3091331. [[paper]](https://arxiv.org/abs/1903.10143)
-
-
-[Back to top](#biography)
-
-## Major work on visual computing and computer vision
 - X. Yang, H. Zhang and J. Cai, “Auto-encoding and distilling scene graphs for image captioning”, accepted by TPAMI, 10.1109/TPAMI.2020.3042192.
 - J. Gu, J. Kuen, S. Joty, J. Cai, V. Morariu, H. Zhao and T. Sun, “Self-supervised relationship probing”, NeurIPS 2020. 
 - Z. Shao , Z. Liu , J. Cai , and L. Ma, “JAA-Net: Joint Facial Action Unit Detection and Face Alignment via Adaptive Attention”, IJCV, vol. 129, no. 2, pp.321-340, 2021.  [[paper]](https://arxiv.org/abs/2003.08834) [[code]](https://github.com/ZhiwenShao/PyTorch-JAANet)

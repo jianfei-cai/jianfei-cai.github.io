@@ -14,7 +14,7 @@ Jianfei is a Professor at Faculty of IT, Monash University, where he currently s
 
 ## Recent work
 - C. Zheng, T.-J. Cham, J. Cai and D. Phung, “Bridging global context interactions for high-fidelity image completion”, CVPR 2022.[[paper&code]](https://github.com/lyndonzheng/TFill)
-- H. Xu, J. Zhang, J. Cai, H. Rezatofighi and D. Tao, “GMFlow: learning optical flow via global matching”, CVPR 2022. [[paper&code]](https://github.com/haofeixu/gmflow)
+- H. Xu, J. Zhang, J. Cai, H. Rezatofighi and D. Tao, “GMFlow: learning optical flow via global matching”, CVPR 2022 (oral). [[paper&code]](https://github.com/haofeixu/gmflow)
 - H. Shi, M. Hayat, Y. Wu and J. Cai, “ProposalCLIP: unsupervised open-category object proposal generation via exploiting CLIP cues”, CVPR 2022. [[paper]](https://arxiv.org/abs/2201.06696)
 - Z. Pan, B. Zhuang, H. He, J. Liu and J. Cai, “Less is more: pay less attention in vision transformers”, AAAI 2022. [[paper]](https://arxiv.org/abs/2105.14217)[[code]](https://github.com/zhuang-group/LIT)
 - X. Yang, H. Zhang and J. Cai, “Deconfounded image captioning: a causal retrospect”, accepted by TPAMI, 10.1109/TPAMI.2021.3121705. [[paper]](https://arxiv.org/abs/2003.03923)

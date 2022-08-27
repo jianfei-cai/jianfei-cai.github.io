@@ -13,6 +13,13 @@ Jianfei is a Professor at Faculty of IT, Monash University, where he currently s
 ## Updates
 
 ## Recent work
+- Q. Wu, X. Liu, Y. Chen, K. Li, C. Zheng, J. Cai and J. Zheng, “Object-compositional neural implicit surfaces”, ECCV 2022. [[paper]](https://arxiv.org/abs/2207.09686)
+- Y. Chen, Q. Wu, C. Zheng, T.-J. Cham, and J. Cai, “Sem2NeRF: converting single-view semantic masks to neural radiance fields”, ECCV 2022. [[paper&code]](https://donydchen.github.io/sem2nerf/)
+- C. Lin, Y. Jiang, J. Cai, L. Qu, G. Haffari, and Z. Yuan, “Multimodal transformer with variable-length memory for vision-and-language navigation”, ECCV 2022. [[paper]](https://arxiv.org/abs/2111.05759)
+- D. Ren, J. Zheng, J. Cai, J. Li, and J. Zhang, “ExtrudeNet: unsupervised inverse sketch-and-extrude for shape parsing”, ECCV 2022.
+- Z. Wu, Y. Wu, G. Lin, J. Cai, and C. Qian, “Dual adaptive transformations for weakly supervised point cloud segmentation”, ECCV 2022. [[paper]](https://arxiv.org/abs/2207.09084)
+- Y. Chen, X. Yang, T.-J. Cham, and J. Cai, “Towards unbiased visual emotion recognition via causal intervention”, ACM Multimedia 2022. [[paper]](https://arxiv.org/abs/2107.12096) [[code]](https://github.com/donydchen/causal_emotion)
+- Y. Wu, Z. Wu, Q. Wu, Z. Ge and J. Cai, “Exploring smoothness and class-separation for semi-supervised medical image segmentation”, MICCAI 2022. [[paper]](https://arxiv.org/abs/2203.01324) [[code]](https://github.com/ycwu1997/SS-Net)
 - C. Zheng, T.-J. Cham, J. Cai and D. Phung, “Bridging global context interactions for high-fidelity image completion”, CVPR 2022.[[paper&code]](https://github.com/lyndonzheng/TFill)
 - H. Xu, J. Zhang, J. Cai, H. Rezatofighi and D. Tao, “GMFlow: learning optical flow via global matching”, CVPR 2022 (oral). [[paper&code]](https://github.com/haofeixu/gmflow)
 - H. Shi, M. Hayat, Y. Wu and J. Cai, “ProposalCLIP: unsupervised open-category object proposal generation via exploiting CLIP cues”, CVPR 2022. [[paper]](https://arxiv.org/abs/2201.06696)

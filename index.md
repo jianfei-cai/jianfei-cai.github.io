@@ -13,6 +13,9 @@ Jianfei is a Professor at Faculty of IT, Monash University, where he currently s
 ## Updates
 
 ## Recent work
+- Z Pan, J Cai, B Zhuang, “Fast vision transformers with HiLo attention”, NeurIPS 2022. [[paper]](https://arxiv.org/abs/2205.13213)[[code]](https://github.com/zhuang-group/LIT](https://github.com/ziplab/LITv2)
+- J Liu, Z Pan, H He, J Cai, B Zhuang, “EcoFormer: energy-saving attention with linear complexity”, NeurIPS 2022. [[paper&code]](https://github.com/ziplab/EcoFormer)
+- C. Zheng, L.T. Vuong, J. Cai and D. Phung, “MoVQ: modulating quantized vectors for high-fidelity image generation”, NeurIPS 2022. [[paper]](https://arxiv.org/abs/2209.09002)
 - Q. Wu, X. Liu, Y. Chen, K. Li, C. Zheng, J. Cai and J. Zheng, “Object-compositional neural implicit surfaces”, ECCV 2022. [[paper]](https://arxiv.org/abs/2207.09686)
 - Y. Chen, Q. Wu, C. Zheng, T.-J. Cham, and J. Cai, “Sem2NeRF: converting single-view semantic masks to neural radiance fields”, ECCV 2022. [[paper&code]](https://donydchen.github.io/sem2nerf/)
 - C. Lin, Y. Jiang, J. Cai, L. Qu, G. Haffari, and Z. Yuan, “Multimodal transformer with variable-length memory for vision-and-language navigation”, ECCV 2022. [[paper]](https://arxiv.org/abs/2111.05759)

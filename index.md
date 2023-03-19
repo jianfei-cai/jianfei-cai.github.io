@@ -13,6 +13,17 @@ Jianfei is a Professor at Faculty of IT, Monash University, where he currently s
 ## Updates
 
 ## Recent work
+- Z. Pan, J. Cai, and B. Zhuang, “Stitchable neural networks”, CVPR 2023. [[paper&code]](https://snnet.github.io/)
+- H. Shi, M. Hayat, and J. Cai, “Transformer scale gate for semantic segmentation”, CVPR 2023. [[paper]](https://arxiv.org/abs/2205.07056)
+- H. He, J. Cai, Z. Pan, J. Liu, J. Zhang, D. Tao, B. Zhuang, “Dynamic focus-aware positional queries for semantic segmentation”, CVPR 2023. [[paper&code]](https://github.com/ziplab/FASeg)
+- E. Vendrow, D. T. Le, J. Cai, H. Rezatofighi, “JRDB-Pose: A large-scale dataset for multi-person pose estimation and tracking”, CVPR 2023. [[paper]](https://arxiv.org/abs/2210.11940)
+- Z. Cai, S. Ghosh, K. Stefanov, A. Dhall, J. Cai, H. Rezatofighi, R. Haffari, M. Hayat, “MARLIN: Masked autoencoder for facial video representation learning”, CVPR 2023. [[paper&code]](https://github.com/ControlNet/MARLIN)
+- C. Lin, P. Sun, Y. Jiang, P. Luo, L. Qu, G. Haffari, Z. Yuan and J. Cai, “Learning object-language alignments for open-vocabulary object detection”, ICLR 2023. [[paper&code]](https://github.com/clin1223/VLDet)
+
+
+[Back to top](#biography)
+
+## Major work on visual computing and computer vision
 - Z Pan, J Cai, B Zhuang, “Fast vision transformers with HiLo attention”, NeurIPS 2022 (spotlight). [[paper]](https://arxiv.org/abs/2205.13213)[[code]](https://github.com/ziplab/LITv2)
 - J Liu, Z Pan, H He, J Cai, B Zhuang, “EcoFormer: energy-saving attention with linear complexity”, NeurIPS 2022 (spotlight). [[paper&code]](https://github.com/ziplab/EcoFormer)
 - C. Zheng, L.T. Vuong, J. Cai and D. Phung, “MoVQ: modulating quantized vectors for high-fidelity image generation”, NeurIPS 2022 (spotlight). [[paper]](https://arxiv.org/abs/2209.09002)
@@ -27,10 +38,6 @@ Jianfei is a Professor at Faculty of IT, Monash University, where he currently s
 - H. Xu, J. Zhang, J. Cai, H. Rezatofighi and D. Tao, “GMFlow: learning optical flow via global matching”, CVPR 2022 (oral). [[paper&code]](https://github.com/haofeixu/gmflow)
 - H. Shi, M. Hayat, Y. Wu and J. Cai, “ProposalCLIP: unsupervised open-category object proposal generation via exploiting CLIP cues”, CVPR 2022. [[paper]](https://arxiv.org/abs/2201.06696)
 - Z. Pan, B. Zhuang, H. He, J. Liu and J. Cai, “Less is more: pay less attention in vision transformers”, AAAI 2022. [[paper]](https://arxiv.org/abs/2105.14217)[[code]](https://github.com/zhuang-group/LIT)
-
-[Back to top](#biography)
-
-## Major work on visual computing and computer vision
 - X. Yang, H. Zhang and J. Cai, “Deconfounded image captioning: a causal retrospect”, accepted by TPAMI, 10.1109/TPAMI.2021.3121705. [[paper]](https://arxiv.org/abs/2003.03923)
 - H. Xu, J. Yang, J. Cai, J. Zhang and X. Tong, “High-resolution optical flow from 1d attention and correlation”, ICCV 2021 (Oral). [[paper]](https://arxiv.org/pdf/2104.13918.pdf)
 - Z. Pan, B. Zhuang, J. Liu, H. He and J. Cai, “Scalable visual transformers with hierarchical pooling”, ICCV 2021. [[paper]](https://arxiv.org/abs/2103.10619)[[code]](https://github.com/zhuang-group/HVT)

@@ -13,7 +13,7 @@ Jianfei is a Professor at Faculty of IT, Monash University, where he currently s
 ## Updates
 
 ## Recent work
-- Z. Pan, J. Cai, and B. Zhuang, “Stitchable neural networks”, CVPR 2023. [[paper&code]](https://snnet.github.io/)
+- Z. Pan, J. Cai, and B. Zhuang, “Stitchable neural networks”, CVPR 2023 (highlight). [[paper&code]](https://snnet.github.io/)
 - H. Shi, M. Hayat, and J. Cai, “Transformer scale gate for semantic segmentation”, CVPR 2023. [[paper]](https://arxiv.org/abs/2205.07056)
 - H. He, J. Cai, Z. Pan, J. Liu, J. Zhang, D. Tao, B. Zhuang, “Dynamic focus-aware positional queries for semantic segmentation”, CVPR 2023. [[paper&code]](https://github.com/ziplab/FASeg)
 - E. Vendrow, D. T. Le, J. Cai, H. Rezatofighi, “JRDB-Pose: A large-scale dataset for multi-person pose estimation and tracking”, CVPR 2023. [[paper]](https://arxiv.org/abs/2210.11940)

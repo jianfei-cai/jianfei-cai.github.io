@@ -21,6 +21,9 @@ Jianfei is a Professor at Faculty of IT, Monash University, where he currently s
 - E. Vendrow, D. T. Le, J. Cai, H. Rezatofighi, “JRDB-Pose: A large-scale dataset for multi-person pose estimation and tracking”, CVPR 2023. [[paper]](https://arxiv.org/abs/2210.11940)
 - Z. Cai, S. Ghosh, K. Stefanov, A. Dhall, J. Cai, H. Rezatofighi, R. Haffari, M. Hayat, “MARLIN: Masked autoencoder for facial video representation learning”, CVPR 2023. [[paper&code]](https://github.com/ControlNet/MARLIN)
 - C. Lin, P. Sun, Y. Jiang, P. Luo, L. Qu, G. Haffari, Z. Yuan and J. Cai, “Learning object-language alignments for open-vocabulary object detection”, ICLR 2023. [[paper&code]](https://github.com/clin1223/VLDet)
+- Y. Wu, Z. Wu, H. Shi, B. Picker, W. Chong, J. Cai, “CoactSeg: Learning from heterogeneous data for new multiple sclerosis lesion segmentation”, MICCAI 2023. [[paper&code]](https://github.com/ycwu1997/CoactSeg)
+- T. Nguyen-Duc, T. Le, R. Bammer, H. Zhao, J. Cai, and D. Phung, “Cross-adversarial local distribution regularization for semi-supervised medical image segmentation”, MICCAI 2023.
+
 
 
 [Back to top](#biography)

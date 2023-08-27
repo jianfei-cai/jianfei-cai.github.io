@@ -13,7 +13,7 @@ Jianfei is a Professor at Faculty of IT, Monash University, where he currently s
 ## Updates
 
 ## Recent work
-- H. He, J. Cai, J. Zhang, D. Tao and B. Zhuang, “Sensitivity-aware visual parameter-efficient fine-tuning”, ICCV 2023 (oral). [[paper]](https://arxiv.org/abs/2205.07056)
+- H. He, J. Cai, J. Zhang, D. Tao and B. Zhuang, “Sensitivity-aware visual parameter-efficient fine-tuning”, ICCV 2023 (oral). [[paper]](https://arxiv.org/pdf/2303.08566.pdf)
 - Q. Wu, K. Wang, K. Li, J. Zheng and J. Cai, “ObjectSDF++: Improved Object-Compositional Neural Implicit Surfaces”, ICCV 2023. [[paper&code]](https://wuqianyi.top/objectsdf++)
 - Z. Pan, J. Cai, and B. Zhuang, “Stitchable neural networks”, CVPR 2023 (highlight). [[paper&code]](https://snnet.github.io/)
 - H. Shi, M. Hayat, and J. Cai, “Transformer scale gate for semantic segmentation”, CVPR 2023. [[paper]](https://arxiv.org/abs/2205.07056)

@@ -13,7 +13,6 @@ Jianfei Cai is currently a Professor at the Faculty of IT, Monash University, wh
 ## Updates
 
 ## Recent work
-- C. Zhang, Q. Wu, C. C. Gambardella, X. Huang, D. Phung, W. Ouyang and J. Cai, “Taming Stable Diffusion for Text to 360 Panorama Image Generation”, CVPR 2024 (highlight) [[paper&code]](https://chengzhag.github.io/publication/panfusion/)
 - Y. Wu, X. Luo, Z. Xu, X. Guo, L. Ju. Z. Ge, W. Liao and J. Cai, “Diversified and Personalized Multi-rater Medical Image Segmentation”, CVPR 2024 (highlight). [[paper]](https://arxiv.org/abs/2403.13417)
 - Y. Chen, Q. Wu, M. Harandi and J. Cai, “How Far Can We Compress Instant NGP-Based NeRF?”, CVPR 2024. [[paper&code]](https://yihangchen-ee.github.io/project_cnc/)
 - H. He, Z. Pan, J. Liu, J. Cai and B. Zhuang, “Efficient Stitchable Task Adaptation”, CVPR 2024. [[paper&code]](https://github.com/ziplab/Stitched_LLaMA?tab=readme-ov-file)

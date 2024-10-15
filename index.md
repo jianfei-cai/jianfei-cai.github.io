@@ -1,17 +1,5 @@
 ![Jianfei Cai](cai@vic-256.jpg)
 
-## Biography
-Jianfei Cai is currently a Professor at the Faculty of IT, Monash University, where he previously served as the inaugural Head of the Data Science & AI Department. Before that, he was a full professor, a cluster deputy director of the Data Science & AI Research Center (DSAIR), Head of the Visual and Interactive Computing Division, and Head of the Computer Communications Division at Nanyang Technological University (NTU). His major research interests include computer vision, multimedia, and visual computing. He has published more than 300 technical papers in international conferences and journals. He is a co-recipient of paper awards in ACCV, ICCM, IEEE ICIP, and MMSP. He is currently on the editorial board of TPAMI and IJCV and has served as an Associate Editor for IEEE T-IP, T-MM, and T-CSVT as well as serving as Area Chair for CVPR, ICCV, ECCV, ACM Multimedia, IJCAI, ICME, ICIP, and ISCAS. He was the Chair of IEEE CAS VSPC-TC during 2016-2018. He also served as the leading TPC Chair for IEEE ICME 2012 and the best paper award committee chair/co-chair for IEEE T-MM 2020/2019. He is the leading General Chair for ACM Multimedia 2024. He is a Fellow of IEEE.
-
-## General information
-- Research interests: visual computing, computer vision, deep learning, vision&language, 3D vision, multimedia, visual signal processing and networking
-- Address: Prof. Jianfei Cai, Dept. of DSAI, Faculty of IT, Monash University, Clayton VIC 3800
-- Email: jianfei.cai AT monash.edu
-- Links: [[Monash website]](https://research.monash.edu/en/persons/jianfei-cai), [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=N6czCoUAAAAJ)
-- index: [[Recent work]](#recent-work), [[Major work on visual computing & vision]](#major-work-on-visual-computing-and-computer-vision), [[Major work on VSPC]](#major-work-on-visual-signal-processing-and-networking), [[Other demos]](#other-demos)
-
-## Updates
-
 ## Recent work
 - Y. Wu, X. Luo, Z. Xu, X. Guo, L. Ju. Z. Ge, W. Liao and J. Cai, “Diversified and Personalized Multi-rater Medical Image Segmentation”, CVPR 2024 (highlight). [[paper]](https://arxiv.org/abs/2403.13417)
 - Y. Chen, Q. Wu, M. Harandi and J. Cai, “How Far Can We Compress Instant NGP-Based NeRF?”, CVPR 2024. [[paper&code]](https://yihangchen-ee.github.io/project_cnc/)

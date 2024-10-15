@@ -1,13 +1,25 @@
 ![Jianfei Cai](cai@vic-256.jpg)
 
+## Biography
+Jianfei Cai is currently a Professor at the Faculty of IT, Monash University, where he previously served as the inaugural Head of the Data Science & AI Department. Before that, he was a full professor, a cluster deputy director of the Data Science & AI Research Center (DSAIR), Head of the Visual and Interactive Computing Division, and Head of the Computer Communications Division in Nanyang Technological University (NTU). His major research interests include visual computing, computer vision, and multimedia. He has published more than 300 technical papers in international conferences and journals. He is a co-recipient of paper awards in ACCV, ICCM, IEEE ICIP, and MMSP. He is currently on the editorial board of TPAMI and IJCV and has served as an Associate Editor for IEEE T-IP, T-MM, and T-CSVT as well as serving as Area Chair for CVPR, ICCV, ECCV, IJCAI, ACM Multimedia, ICME, ICIP and ISCAS. He was the Chair of IEEE CAS VSPC-TC during 2016-2018. He also served as the leading TPC Chair for IEEE ICME 2012 and the best paper award committee chair & co-chair for IEEE T-MM 2020 & 2019. He will be the leading General Chair for ACM Multimedia 2024. He is a Fellow of IEEE.
+
+## General information
+- Research interests: visual computing, computer vision, deep learning, vision&language, 3D vision, multimedia, visual signal processing and networking
+- Address: Prof. Jianfei Cai, Dept. of DSAI, Faculty of IT, Monash University, Clayton VIC 3800
+- Email: jianfei.cai AT monash.edu
+- Links: [[Monash website]](https://research.monash.edu/en/persons/jianfei-cai), [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=N6czCoUAAAAJ)
+- index: [[Recent work]](#recent-work), [[Major work on visual computing & vision]](#major-work-on-visual-computing-and-computer-vision), [[Major work on VSPC]](#major-work-on-visual-signal-processing-and-networking), [[Other demos]](#other-demos)
+
+## Updates
+
 ## Recent work
+- C. Zhang, Q. Wu, C. C. Gambardella, X. Huang, D. Phung, W. Ouyang and J. Cai, “Taming Stable Diffusion for Text to 360 Panorama Image Generation”, CVPR 2024 (highlight) [[paper&code]](https://chengzhag.github.io/publication/panfusion/)
 - Y. Wu, X. Luo, Z. Xu, X. Guo, L. Ju. Z. Ge, W. Liao and J. Cai, “Diversified and Personalized Multi-rater Medical Image Segmentation”, CVPR 2024 (highlight). [[paper]](https://arxiv.org/abs/2403.13417)
 - Y. Chen, Q. Wu, M. Harandi and J. Cai, “How Far Can We Compress Instant NGP-Based NeRF?”, CVPR 2024. [[paper&code]](https://yihangchen-ee.github.io/project_cnc/)
 - H. He, Z. Pan, J. Liu, J. Cai and B. Zhuang, “Efficient Stitchable Task Adaptation”, CVPR 2024. [[paper&code]](https://github.com/ziplab/Stitched_LLaMA?tab=readme-ov-file)
 - C. Lin, Y. Jiang, L. Qu, Z. Yuan and J. Cai, “Generative Region-Language Pretraining for Open-Ended Object Detection”, CVPR 2024. [[paper&code]](https://github.com/FoundationVision/GenerateU)
 - D. Le, C. Gou, S. Datta, H. Shi, I. Reid, J. Cai and H. Rezatofighi, “JRDB-PanoTrack: An Open-world Panoptic Segmentation and Tracking Robotic Dataset in Crowded Human Environments”, CVPR 2024. [[paper]](https://arxiv.org/abs/2404.01686)
 - H. He, J. Cai, J. Liu, Z. Pan, J. Zhang, D. Tao, and B. Zhuang, “Pruning self-attentions into convolutional layers in single path”, IEEE TPAMI, vol. 46, pp. 3910-3922, May 2024, DOI: 10.1109/TPAMI.2024.3355890. [[paper]](https://arxiv.org/abs/2111.11802)
-
 [Back to top](#biography)
 
 ## Major work on visual computing and computer vision

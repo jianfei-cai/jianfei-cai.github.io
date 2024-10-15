@@ -20,6 +20,7 @@ Jianfei Cai is currently a Professor at the Faculty of IT, Monash University, wh
 - C. Lin, Y. Jiang, L. Qu, Z. Yuan and J. Cai, “Generative Region-Language Pretraining for Open-Ended Object Detection”, CVPR 2024. [[paper&code]](https://github.com/FoundationVision/GenerateU)
 - D. Le, C. Gou, S. Datta, H. Shi, I. Reid, J. Cai and H. Rezatofighi, “JRDB-PanoTrack: An Open-world Panoptic Segmentation and Tracking Robotic Dataset in Crowded Human Environments”, CVPR 2024. [[paper]](https://arxiv.org/abs/2404.01686)
 - H. He, J. Cai, J. Liu, Z. Pan, J. Zhang, D. Tao, and B. Zhuang, “Pruning self-attentions into convolutional layers in single path”, IEEE TPAMI, vol. 46, pp. 3910-3922, May 2024, DOI: 10.1109/TPAMI.2024.3355890. [[paper]](https://arxiv.org/abs/2111.11802)
+
 [Back to top](#biography)
 
 ## Major work on visual computing and computer vision

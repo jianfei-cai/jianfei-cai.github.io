@@ -13,13 +13,6 @@ Jianfei Cai is currently a Professor at the Faculty of IT, Monash University, wh
 ## Updates
 
 ## Recent work
-- Y. Chen,  H. Xu,  C. Zheng,  B. Zhuang, M. Pollefeys,  A. Geiger,  T.-J. Cham and J. Cai, “MVSplat: Efficient 3D Gaussian splatting from sparse multi-view images”, ECCV 2024 (oral). [[paper&code]](https://donydchen.github.io/mvsplat/)
-- Q. Wu, J. Zheng and Jianfei Cai, “Surface reconstruction for 3D Gaussian splatting via local structural hints”, ECCV 2024. [[paper&code]](https://wuqianyi.top/gsrec)
-- Y. Chen, Q. Wu, M. Harandi and J. Cai, “HAC: Hash-grid assisted context for 3D Gaussian splatting compression”, ECCV 2024. [[paper&code]](https://yihangchen-ee.github.io/project_hac/)
-- Z. Pan, J. Liu, H. He, J. Cai, and B. Zhuang, “Stitched ViTs are flexible vision backbones”, ECCV 2024. [[paper&code]](https://snnet.github.io/snnetv2/)
-- D. Ren, H. Shi, J. Zheng and J. Cai, “McGrids: Monte Carlo-driven adaptive grids for iso-surface extraction”, ECCV 2024. [[paper]](https://arxiv.org/abs/2409.06710)
-- D. Ren, H. Mei, H. Shi, J. Zheng, J. Cai and L. Yang, “Differentiable convex polyhedra optimization from multi-view images”, ECCV 2024. [[paper]](https://arxiv.org/abs/2407.15686)
-- D.-T. Le, H. Shi, J. Cai, H. Rezatofighi, “DifFUSER: Diffusion model for robust multi-sensor fusion in 3D object detection and BEV segmentation”, ECCV 2024. [[paper]](https://arxiv.org/abs/2404.04629)
 - C. Zhang, Q. Wu, C. C. Gambardella, X. Huang, D. Phung, W. Ouyang and J. Cai, “Taming Stable Diffusion for Text to 360 Panorama Image Generation”, CVPR 2024 (highlight) [[paper&code]](https://chengzhag.github.io/publication/panfusion/)
 - Y. Wu, X. Luo, Z. Xu, X. Guo, L. Ju. Z. Ge, W. Liao and J. Cai, “Diversified and Personalized Multi-rater Medical Image Segmentation”, CVPR 2024 (highlight). [[paper]](https://arxiv.org/abs/2403.13417)
 - Y. Chen, Q. Wu, M. Harandi and J. Cai, “How Far Can We Compress Instant NGP-Based NeRF?”, CVPR 2024. [[paper&code]](https://yihangchen-ee.github.io/project_cnc/)

@@ -13,6 +13,17 @@ Jianfei Cai is currently a Professor at the Faculty of IT, Monash University, wh
 ## Updates
 
 ## Recent work
+- Y. Chen, Q. Wu, M. Li, W. Lin, M. Harandi and J. Cai, “Fast feedforward 3d Gaussian splatting compression”, ICLR 2025. [[paper&code]](https://github.com/YihangChen-ee/FCGS)
+- S. Chen, Z. Pan, J. Cai, and D. Phung, “PaRa: Personalizing text-to-image diffusion via parameter rank reduction”, ICLR 2025. [[paper]](https://arxiv.org/pdf/2406.05641)
+- Z. Pan, B. Zhuang, D.-A. Huang, W. Nie, Z. Yu, C. Xiao, J. Cai, and A. Anandkumar, “T-Stitch: Accelerating sampling in pre-trained diffusion models with trajectory stitching”, ICLR 2025. [[paper&code]](https://t-stitch.github.io/)
+- Y. Chen, C. Zheng, H. Xu, B. Zhuang, A. Vedaldi, T.-J. Cham and J. Cai, “MVSplat360: benchmarking 360 generalizable 3d novel view synthesis from sparse views”, NeurIPS 2024. [[paper&code]](https://donydchen.github.io/mvsplat360/)
+- M. Wei, Q. Wu, J. Zheng, H. Rezatofighi, and J. Cai, “Normal-GS: 3D Gaussian splatting with normal-involved rendering”, NeurIPS 2024. [[paper]](https://arxiv.org/pdf/2410.20593)
+- H. Sun, Q. Ke, Y. Wang, W. Chen, K. Yang, D. Li, and J. Cai, “Point-PRC: A prompt learning based regulation framework for generalizable point cloud analysis”, NeurIPS 2024. [[paper&code]](https://github.com/auniquesun/Point-PRC)
+- P. Chen, J. Ye, et al., “GMAI-MMBench: A comprehensive multimodal evaluation benchmark towards general medical AI”, NeurIPS 2024. [[paper&code]](https://uni-medical.github.io/GMAI-MMBench.github.io/)
+
+[Back to top](#biography)
+
+## Major work on visual computing and computer vision
 - Y. Chen,  H. Xu,  C. Zheng,  B. Zhuang, M. Pollefeys,  A. Geiger,  T.-J. Cham and J. Cai, “MVSplat: Efficient 3D Gaussian splatting from sparse multi-view images”, ECCV 2024 (oral). [[paper&code]](https://donydchen.github.io/mvsplat/)
 - Q. Wu, J. Zheng and Jianfei Cai, “Surface reconstruction for 3D Gaussian splatting via local structural hints”, ECCV 2024. [[paper&code]](https://wuqianyi.top/gsrec)
 - Y. Chen, Q. Wu, M. Harandi and J. Cai, “HAC: Hash-grid assisted context for 3D Gaussian splatting compression”, ECCV 2024. [[paper&code]](https://yihangchen-ee.github.io/project_hac/)
@@ -27,10 +38,6 @@ Jianfei Cai is currently a Professor at the Faculty of IT, Monash University, wh
 - C. Lin, Y. Jiang, L. Qu, Z. Yuan and J. Cai, “Generative Region-Language Pretraining for Open-Ended Object Detection”, CVPR 2024. [[paper&code]](https://github.com/FoundationVision/GenerateU)
 - D. Le, C. Gou, S. Datta, H. Shi, I. Reid, J. Cai and H. Rezatofighi, “JRDB-PanoTrack: An Open-world Panoptic Segmentation and Tracking Robotic Dataset in Crowded Human Environments”, CVPR 2024. [[paper]](https://arxiv.org/abs/2404.01686)
 - H. He, J. Cai, J. Liu, Z. Pan, J. Zhang, D. Tao, and B. Zhuang, “Pruning self-attentions into convolutional layers in single path”, IEEE TPAMI, vol. 46, pp. 3910-3922, May 2024, DOI: 10.1109/TPAMI.2024.3355890. [[paper]](https://arxiv.org/abs/2111.11802)
-
-[Back to top](#biography)
-
-## Major work on visual computing and computer vision
 - H. He, J. Cai, J. Zhang, D. Tao and B. Zhuang, “Sensitivity-aware visual parameter-efficient fine-tuning”, ICCV 2023 (oral). [[paper]](https://arxiv.org/pdf/2303.08566.pdf)
 - Q. Wu, K. Wang, K. Li, J. Zheng and J. Cai, “ObjectSDF++: Improved Object-Compositional Neural Implicit Surfaces”, ICCV 2023. [[paper&code]](https://wuqianyi.top/objectsdf++)
 - Z. Pan, J. Cai, and B. Zhuang, “Stitchable neural networks”, CVPR 2023 (highlight). [[paper&code]](https://snnet.github.io/)

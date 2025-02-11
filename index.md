@@ -13,8 +13,8 @@ Jianfei Cai is currently a Professor at the Faculty of IT, Monash University, wh
 ## Updates
 
 ## Recent work
+- S. Chen, Z. Pan, J. Cai, and D. Phung, “PaRa: Personalizing text-to-image diffusion via parameter rank reduction”, ICLR 2025 (Spotlight). [[paper]](https://arxiv.org/pdf/2406.05641)
 - Y. Chen, Q. Wu, M. Li, W. Lin, M. Harandi and J. Cai, “Fast feedforward 3d Gaussian splatting compression”, ICLR 2025. [[paper&code]](https://github.com/YihangChen-ee/FCGS)
-- S. Chen, Z. Pan, J. Cai, and D. Phung, “PaRa: Personalizing text-to-image diffusion via parameter rank reduction”, ICLR 2025. [[paper]](https://arxiv.org/pdf/2406.05641)
 - Z. Pan, B. Zhuang, D.-A. Huang, W. Nie, Z. Yu, C. Xiao, J. Cai, and A. Anandkumar, “T-Stitch: Accelerating sampling in pre-trained diffusion models with trajectory stitching”, ICLR 2025. [[paper&code]](https://t-stitch.github.io/)
 - Y. Chen, C. Zheng, H. Xu, B. Zhuang, A. Vedaldi, T.-J. Cham and J. Cai, “MVSplat360: benchmarking 360 generalizable 3d novel view synthesis from sparse views”, NeurIPS 2024. [[paper&code]](https://donydchen.github.io/mvsplat360/)
 - M. Wei, Q. Wu, J. Zheng, H. Rezatofighi, and J. Cai, “Normal-GS: 3D Gaussian splatting with normal-involved rendering”, NeurIPS 2024. [[paper]](https://arxiv.org/pdf/2410.20593)

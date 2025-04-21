@@ -13,6 +13,9 @@ Jianfei Cai is currently a Professor at the Faculty of IT, Monash University, wh
 ## Updates
 
 ## Recent work
+- C. Zhang, H. Xu, Q. Wu, C. C. Gambardella, D. Phung and J. Cai, “PanSplat: 4K panorama synthesis with feed-forward Gaussian splatting”, CVPR 2025. [[paper&code]](https://chengzhag.github.io/publication/pansplat/)
+- Z. Ma, C. Gou, H. Shi, B. Sun, S. Li, H. Rezatofighi and J. Cai, “DrVideo: document retrieval based long video understanding”, CVPR 2025. [[paper]](https://arxiv.org/abs/2406.12846)
+- H. Sun, Q. Ke, M. Cheng, Y. Wang, D. Li, C. Gou and J. Cai, “Point-Cache: test-time dynamic and hierarchical cache for robust and generalizable point cloud analysis”, CVPR 2025. [[paper&code]](https://github.com/auniquesun/Point-Cache)
 - S. Chen, Z. Pan, J. Cai, and D. Phung, “PaRa: Personalizing text-to-image diffusion via parameter rank reduction”, ICLR 2025 (Spotlight). [[paper]](https://arxiv.org/pdf/2406.05641)
 - Y. Chen, Q. Wu, M. Li, W. Lin, M. Harandi and J. Cai, “Fast feedforward 3d Gaussian splatting compression”, ICLR 2025. [[paper&code]](https://github.com/YihangChen-ee/FCGS)
 - Z. Pan, B. Zhuang, D.-A. Huang, W. Nie, Z. Yu, C. Xiao, J. Cai, and A. Anandkumar, “T-Stitch: Accelerating sampling in pre-trained diffusion models with trajectory stitching”, ICLR 2025. [[paper&code]](https://t-stitch.github.io/)

@@ -34,6 +34,8 @@ Jianfei Cai is currently a Professor at the Faculty of IT, Monash University, wh
 - D. Ren, H. Shi, J. Zheng and J. Cai, “McGrids: Monte Carlo-driven adaptive grids for iso-surface extraction”, ECCV 2024. [[paper]](https://arxiv.org/abs/2409.06710)
 - D. Ren, H. Mei, H. Shi, J. Zheng, J. Cai and L. Yang, “Differentiable convex polyhedra optimization from multi-view images”, ECCV 2024. [[paper]](https://arxiv.org/abs/2407.15686)
 - D.-T. Le, H. Shi, J. Cai, H. Rezatofighi, “DifFUSER: Diffusion model for robust multi-sensor fusion in 3D object detection and BEV segmentation”, ECCV 2024. [[paper]](https://arxiv.org/abs/2404.04629)
+- J. Liu, R. Gong, X. Wei, Z. Dong, J. Cai and B. Zhuang, “QLLM: accurate and efficient low-bitwidth quantization for large language models”, ICLR 2024. [[paper&code]](https://github.com/ModelTC/QLLM)
+- H. A. Dung, C. Pham, T. Le, J. Cai and T.-T. Do, “Sharpness-aware data generation for zero-shot quantization”, ICML 2024. [[paper]](https://openreview.net/forum?id=8mKXMnhnFW&referrer=%5Bthe%20profile%20of%20Jianfei%20Cai%5D(%2Fprofile%3Fid%3D~Jianfei_Cai1)
 - C. Zhang, Q. Wu, C. C. Gambardella, X. Huang, D. Phung, W. Ouyang and J. Cai, “Taming Stable Diffusion for Text to 360 Panorama Image Generation”, CVPR 2024 (highlight) [[paper&code]](https://chengzhag.github.io/publication/panfusion/)
 - Y. Wu, X. Luo, Z. Xu, X. Guo, L. Ju. Z. Ge, W. Liao and J. Cai, “Diversified and Personalized Multi-rater Medical Image Segmentation”, CVPR 2024 (highlight). [[paper]](https://arxiv.org/abs/2403.13417)
 - Y. Chen, Q. Wu, M. Harandi and J. Cai, “How Far Can We Compress Instant NGP-Based NeRF?”, CVPR 2024. [[paper&code]](https://yihangchen-ee.github.io/project_cnc/)

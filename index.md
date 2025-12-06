@@ -13,7 +13,7 @@ Jianfei Cai is currently a Professor at the Faculty of IT, Monash University, wh
 ## Updates
 
 ## Recent work
--C. Zhang, H. Liang, D. Y. Chen, Q. Wu, K. N. Plataniotis, C. C. Gambardella, and J. Cai, “PanFlow: decoupled motion control for panoramic video generation”, AAAI 2026. [[paper]](https://www.arxiv.org/abs/2512.00832)
+- C. Zhang, H. Liang, D. Y. Chen, Q. Wu, K. N. Plataniotis, C. C. Gambardella, and J. Cai, “PanFlow: decoupled motion control for panoramic video generation”, AAAI 2026. [[paper]](https://www.arxiv.org/abs/2512.00832)
 - Y. Chen, M. Li, Q. Wu, W. Lin, M. Harandi, and J. Cai, “PCGS: Progressive Compression of 3D Gaussian Splatting”, AAAI 2026 (Oral). [[paper&code]](https://yihangchen-ee.github.io/project_pcgs/)
 - D.-T. Le, T. Pham, J. Cai, and H. Rezatofighi, “Marginalized Generalized IoU (MGIoU): A Unified Objective Function for Optimizing Convex Parametric Shapes”, AAAI 2026 (Oral). [[paper&code]](https://ldtho.github.io/MGIoU/)
 - Z. Ma, C. Gou, Y. Hu, Y. Wang, X. Chu, B. Zhuang, and Jianfei Cai, “Where and What Matters: sensitivity-aware task vectors for many-shot multimodal in-context learning”, AAAI 2026. [[paper]](https://arxiv.org/abs/2511.08246)
@@ -207,4 +207,5 @@ supervised object detection”, CVPR 2020.
 - [[Seamless image composition]](https://www.youtube.com/watch?v=RxagypaF0lI&feature=youtu.be)
 
 [Back to top](#biography)
+
 

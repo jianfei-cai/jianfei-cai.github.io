@@ -13,10 +13,24 @@ Jianfei Cai is a Professor at the Faculty of IT, Monash University, where he was
 ## Updates
 
 ## Recent work
+- C. Zhang, B. Li, M. Wei, Y.-P. Cao, C. C. Gambardella, D. Phung, and J. Cai, “Unified camera positional encoding for controlled video generation”, CVPR 2026. [[paper&code]](https://chengzhag.github.io/publication/ucpe/)
+- Y. Dai, Z. Chen, Y. Jiang, Q. Ke, J. Zhu, and J. Cai, “Omni2Sound: A fundamental study on dataset, base model, and benchmark for unified video-text-to-audio generation”, CVPR 2026 (Highlight). [[paper&code]](https://swapforward.github.io/Omni2Sound/)
+- R. Zhu, J. Lu, W. Hu, X. Han, J. Cai, Y. Shan, and C. Zheng, “MotionCrafter: Repurposing Video Generators for Dense Geometry and Motion Reconstruction”, CVPR 2026 (Highlight). [[paper&code]](https://ruijiezhu94.github.io/MotionCrafter_Page/)
+- Y. Wu, T. Song, Z. Wu, J. Ye, Z. Ge, W. Bai, Z. Chen, and J. Cai, “Virtual full-stack scanning of brain MRI via imputing any quantised code”, CVPR 2026. [[paper]](https://arxiv.org/pdf/2501.18328)
+- C. Gou, et al., “VQ-VA world: towards high-quality visual question-visual answering”, CVPR 2026. [[paper&code]](https://chenhuigou.github.io/VQ-VA-World/)
+- C. Gou, Z. Ma, Z. Duan, H. He, F. Chen, A. Liu, B. Zhuang, J. Cai, and H. Rezatofighi, “An empirical study on how Video-LLMs answer video questions”, CVPR 2026. [[paper]](https://arxiv.org/pdf/2508.15360)
+- Z. Gong, X. Li, F. Tosi, J. Han, S. Mattoccia, J. Cai, and M. Poggi, “Ov3R: Open-Vocabulary Semantic 3D Reconstruction from RGB Videos”, CVPR 2026 (Highlight). [[paper]](https://arxiv.org/pdf/2507.22052)
+- L. Li, Z. Wang, Y. Wu, J. Cai, and X. Yang, “CoT vectors: transferring and probing the reasoning mechanisms of LLMs”, ICLR 2026. [[paper]](https://arxiv.org/pdf/2510.00579)
+- H. A. Dung, C. Pham, T. Le, J. Cai, and T.-T. Do, “Gradient-aligned calibration for post-training quantization of diffusion models”, ICLR 2026. [[paper]](https://arxiv.org/pdf/2602.01289)
 - C. Zhang, H. Liang, D. Y. Chen, Q. Wu, K. N. Plataniotis, C. C. Gambardella, and J. Cai, “PanFlow: decoupled motion control for panoramic video generation”, AAAI 2026. [[paper]](https://www.arxiv.org/abs/2512.00832)
 - Y. Chen, M. Li, Q. Wu, W. Lin, M. Harandi, and J. Cai, “PCGS: Progressive Compression of 3D Gaussian Splatting”, AAAI 2026 (Oral). [[paper&code]](https://yihangchen-ee.github.io/project_pcgs/)
 - D.-T. Le, T. Pham, J. Cai, and H. Rezatofighi, “Marginalized Generalized IoU (MGIoU): A Unified Objective Function for Optimizing Convex Parametric Shapes”, AAAI 2026 (Oral). [[paper&code]](https://ldtho.github.io/MGIoU/)
 - Z. Ma, C. Gou, Y. Hu, Y. Wang, X. Chu, B. Zhuang, and Jianfei Cai, “Where and What Matters: sensitivity-aware task vectors for many-shot multimodal in-context learning”, AAAI 2026. [[paper]](https://arxiv.org/abs/2511.08246)
+
+
+[Back to top](#biography)
+
+## Major work on visual computing and computer vision
 - X. Yang, B. Li, Y. Zhang, Z. Yin, L. Bai, L. Ma, Z. Wang, J. Cai, T.-T. Wong · H. Lu, X. Jia, “VLIPP: towards physically plausible video generation with vision and language informed physical prior”, ICCV 2025. [[paper&code]](https://madaoer.github.io/projects/physically_plausible_video_generation/)
 - C. Zhang, H. Xu, Q. Wu, C. C. Gambardella, D. Phung and J. Cai, “PanSplat: 4K panorama synthesis with feed-forward Gaussian splatting”, CVPR 2025. [[paper&code]](https://chengzhag.github.io/publication/pansplat/)
 - Z. Ma, C. Gou, H. Shi, B. Sun, S. Li, H. Rezatofighi and J. Cai, “DrVideo: document retrieval based long video understanding”, CVPR 2025. [[paper]](https://arxiv.org/abs/2406.12846)
@@ -24,10 +38,6 @@ Jianfei Cai is a Professor at the Faculty of IT, Monash University, where he was
 - S. Chen, Z. Pan, J. Cai, and D. Phung, “PaRa: Personalizing text-to-image diffusion via parameter rank reduction”, ICLR 2025 (Spotlight). [[paper]](https://arxiv.org/pdf/2406.05641)
 - Y. Chen, Q. Wu, M. Li, W. Lin, M. Harandi and J. Cai, “Fast feedforward 3d Gaussian splatting compression”, ICLR 2025. [[paper&code]](https://github.com/YihangChen-ee/FCGS)
 - Z. Pan, B. Zhuang, D.-A. Huang, W. Nie, Z. Yu, C. Xiao, J. Cai, and A. Anandkumar, “T-Stitch: Accelerating sampling in pre-trained diffusion models with trajectory stitching”, ICLR 2025. [[paper&code]](https://t-stitch.github.io/)
-
-[Back to top](#biography)
-
-## Major work on visual computing and computer vision
 - Y. Chen, C. Zheng, H. Xu, B. Zhuang, A. Vedaldi, T.-J. Cham and J. Cai, “MVSplat360: benchmarking 360 generalizable 3d novel view synthesis from sparse views”, NeurIPS 2024. [[paper&code]](https://donydchen.github.io/mvsplat360/)
 - M. Wei, Q. Wu, J. Zheng, H. Rezatofighi, and J. Cai, “Normal-GS: 3D Gaussian splatting with normal-involved rendering”, NeurIPS 2024. [[paper]](https://arxiv.org/pdf/2410.20593)
 - H. Sun, Q. Ke, Y. Wang, W. Chen, K. Yang, D. Li, and J. Cai, “Point-PRC: A prompt learning based regulation framework for generalizable point cloud analysis”, NeurIPS 2024. [[paper&code]](https://github.com/auniquesun/Point-PRC)

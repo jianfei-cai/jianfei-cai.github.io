@@ -14,7 +14,7 @@ Jianfei Cai is a Professor at the Faculty of IT, Monash University, where he was
 
 ## Recent work
 - C. Zhang, B. Li, M. Wei, Y.-P. Cao, C. C. Gambardella, D. Phung, and J. Cai, “Unified camera positional encoding for controlled video generation”, CVPR 2026. [[paper&code]](https://chengzhag.github.io/publication/ucpe/)
-- Y. Dai, Z. Chen, Y. Jiang, Q. Ke, J. Zhu, and J. Cai, “Omni2Sound: A fundamental study on dataset, base model, and benchmark for unified video-text-to-audio generation”, CVPR 2026 (Highlight). [[paper&code]](https://swapforward.github.io/Omni2Sound/)
+- Y. Dai, Z. Chen, Y. Jiang, Q. Ke, J. Cai, and J. Zhu, “Omni2Sound: A fundamental study on dataset, base model, and benchmark for unified video-text-to-audio generation”, CVPR 2026 (Highlight). [[paper&code]](https://swapforward.github.io/Omni2Sound/)
 - R. Zhu, J. Lu, W. Hu, X. Han, J. Cai, Y. Shan, and C. Zheng, “MotionCrafter: Repurposing Video Generators for Dense Geometry and Motion Reconstruction”, CVPR 2026 (Highlight). [[paper&code]](https://ruijiezhu94.github.io/MotionCrafter_Page/)
 - Y. Wu, T. Song, Z. Wu, J. Ye, Z. Ge, W. Bai, Z. Chen, and J. Cai, “Virtual full-stack scanning of brain MRI via imputing any quantised code”, CVPR 2026. [[paper]](https://arxiv.org/pdf/2501.18328)
 - C. Gou, et al., “VQ-VA world: towards high-quality visual question-visual answering”, CVPR 2026. [[paper&code]](https://chenhuigou.github.io/VQ-VA-World/)
